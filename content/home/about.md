@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2019-01-11T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,31 +10,38 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "data mining",
+    "Computational Communication",
+    "Text as Data",
+    "Network science",
+    "open data",
+    "open-source"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Communication"
+  institution = "SUNY-Buffalo"
+  year = 2015
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MA in Media Studies"
+  institution = "UW-Milwaukee"
+  year = 2011
+
+[[education.courses]]
+  course = "BA in Public Administration"
+  institution = "Zhejiang University of Technology, China"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
+# What is CuriosityBits CC for?
+
+I built this site to share open-source content created in my research and teaching. You will find interactive tutorials on using R to collect, analyze, and visualize social data, a link to my recent publications, and a repository for past data visualization projects. Some of the content is also available at my old website (https://www.curiositybits.com/).
+
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Weiai Xu (Wayne) is Assistant Professor in the Department of Communication at University Massachusetts – Amherst. His research focuses on social media and online communities,particularly how networked diffusion and relationship-building afford a new way to engage the public. He uses computational techniques to analyze content and connections in social media content. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+我目前服务于美国马萨诸塞州立大学阿默斯特校区（University Massachusetts – Amherst），担任该校传播系的助理副教授。我的研究重点是网络社会（network society)和如何用数据科学（data science）分析网络社会产生的海量行为数据。我开设的社会化媒体数据挖掘课程已经开源。请点击Tutorial栏查看开源代码和教程。
