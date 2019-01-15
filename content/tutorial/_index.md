@@ -38,7 +38,7 @@ The old tutorials are not interactive. They are R Markdown documents hosted on R
 --- 
 # Tutorials for COMM621 Quantitative Methods in Research (graduate seminar in spring 2019)
 
-[Syllabus: COMM621 Spring 2019](files/comm621_spring2019.pdf) 
+[Syllabus: COMM621 Spring 2019](https://curiositybits.cc/files/comm621_spring2019.pdf) 
 
 Tutorials for COMM621 will be uploaded soon. Here is a list of tutorials used in Spring 2018. 
 
