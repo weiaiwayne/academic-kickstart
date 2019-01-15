@@ -4,6 +4,7 @@ date = 2019-01-14T21:19:53-05:00
 #draft = false
 math = false
 highlight = false
+tags = ["R", "R tutorials", "social media analytics", "data mining", "data visualization"]
 +++
 # COMM497DB Spring 2019
 
