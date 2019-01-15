@@ -33,7 +33,9 @@ The old tutorials are not interactive. They are R Markdown documents hosted on R
 * [Consumer Sentiments Toward Uber and Lyft](https://rkellycomm497finalproject.shinyapps.io/Comm497_FinalProject/) 
 * [Twitter Discussion Networks After the Election](https://curiositybits.shinyapps.io/Jacob_app/) 
 
---- Tutorials for COMM621 Quantitative Methods in Research (graduate seminar in spring 2019)
+--- 
+# Tutorials for COMM621 Quantitative Methods in Research (graduate seminar in spring 2019)
 
 Tutorials for COMM621 will be uploaded soon. Here is a list of tutorials used in Spring 2018. 
+
 * [Bibliometrics and Quantitative Text Analysis of Journal Articles](http://rpubs.com/cosmopolitanvan/textanalysis) 
