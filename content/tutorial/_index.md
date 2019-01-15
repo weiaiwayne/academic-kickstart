@@ -10,9 +10,9 @@ tags = ["R", "R tutorials", "social media analytics", "data mining", "data visua
 
 I am developing a set of interactive tutorials on using R for social data analytics. Throughout the semester, I will update the tutorials bi-weekly to include new topics. 
 
-#### Access [the interactive tutorial](https://curiositybits.cc/files/497db_syllabus.pdf)
+#### Access [the interactive tutorial](https://curiositybits.shinyapps.io/R_social_data_analytics/)
 
-#### Download [course syllabus](https://curiositybits.shinyapps.io/R_social_data_analytics/)
+#### Download [course syllabus](https://curiositybits.cc/files/497db_syllabus.pdf)
 --- 
 # Tutorials used in previous semesters
 The old tutorials are not interactive. They are R Markdown documents hosted on RPubs. With new libraries and changes to Twitter/Facebook API, some content may have become obsolete. 
