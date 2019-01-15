@@ -17,4 +17,10 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+  
+# COMM497DB Spring 2019
+
+I am developing a set of interactive tutorials on using R for social data analytics. Throughout the semester, I will update the tutorials bi-weekly to include new topics. 
+
+#### Access [the interactive tutorial](https://curiositybits.shinyapps.io/R_social_data_analytics/)
 +++
