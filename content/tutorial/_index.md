@@ -23,3 +23,12 @@ The old tutorials are not interactive. They are R Markdown documents hosted on R
 * [Text Mining (Topic modeling)](http://rpubs.com/cosmopolitanvan/topicmodeling) _What Do Twitter Users Talk About Mindhunter (2016)? - Leverage Topic Modeling for Textual Insights_
 * [Network Analysis](http://rpubs.com/cosmopolitanvan/twitternetworks) _Analyze Twitter Networks_
 * [Geo-mapping Twitter Users](http://rpubs.com/cosmopolitanvan/327345) 
+
+--- 
+# Students' R Shiny apps (from Fall 2017)
+* [Word-cloud of US News Sites on Facebook](https://mselimyilmaz.shinyapps.io/us_news_sites_on_facebook_2_may_2017/) 
+* [Sentiments in Twitter Conversations About Two Netflix Shows](https://curiositybits.shinyapps.io/natalia_app/)
+* [Job Postings on Twitter](https://curiositybits.shinyapps.io/Ariella_app/) 
+* [Pro-Trump and Anti-Trump Tweet Map](https://collinproehlcomm492.shinyapps.io/commfinalappproject/) 
+* [Consumer Sentiments Toward Uber and Lyft](https://rkellycomm497finalproject.shinyapps.io/Comm497_FinalProject/) 
+* [Twitter Discussion Networks After the Election](https://curiositybits.shinyapps.io/Jacob_app/) 
