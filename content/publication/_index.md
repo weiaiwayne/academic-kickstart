@@ -1,17 +1,7 @@
 +++
 title = "Publications"
 date = 2017-01-01T00:00:00
-
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = APA
-#   3 = MLA
-#   4 = Stream
 list_format = 2
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
 +++
+
+In compliance with the copyright law, I am showing only pre-prints hosted by ScholarWorks@UMass Amherst. For a complete list of publications, visit my [Google Scholar page ](https://scholar.google.com/citations?hl=en&user=c87IeKoAAAAJ&view_op=list_works&sortby=pubdate) or [ResearchGate] (https://www.researchgate.net/profile/Weiai_Xu) 
