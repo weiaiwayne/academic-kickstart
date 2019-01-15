@@ -302,17 +302,17 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "/publications_selected/"
   weight = 2
 
 [[menu.main]]
   name = "Posts"
-  url = "#posts"
+  url = "/posts/"
   weight = 3
 
 [[menu.main]]
   name = "Projects"
-  url = "#projects"
+  url = "/projects/"
   weight = 4
 
 [[menu.main]]
