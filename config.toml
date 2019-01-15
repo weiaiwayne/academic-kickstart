@@ -303,7 +303,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Publications"
   url = "/publication/"
-  weight = 2
+  weight = 4
 
 [[menu.main]]
   name = "Posts"
@@ -318,7 +318,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Tutorials"
   url = "/tutorial/"
-  weight = 4
+  weight = 2
 
 [[menu.main]]
   name = "Contact"
