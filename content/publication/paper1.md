@@ -2,7 +2,6 @@
 title = "Sentiment, richness, authority, and relevance model of information sharing during social Crises—the case of# MH370 tweets"
 abstract = "An abstract..."
 authors = ["First author's name", "Second author's name"]
-date = "2013-07-01"
 image = ""
 image_preview = ""
 math = false
