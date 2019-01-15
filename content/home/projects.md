@@ -4,8 +4,8 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Projects"
-subtitle = ""
+title = "repository"
+subtitle = "no longer actively maintained"
 
 # Order that this section will appear in.
 weight = 50
