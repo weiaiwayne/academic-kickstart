@@ -11,11 +11,6 @@ I am developing a set of interactive tutorials on using R for social data analyt
 
 #### Access [the interactive tutorial](https://curiositybits.shinyapps.io/R_social_data_analytics/)
 
-##### New features in the new version
-  - Interactive
-  - Cloud-based; you don't need to have R and RStudio on your local machine
-  - Embedded with a Twitter developer account to enable API access
- 
 --- 
 # Tutorials used in previous semesters
 The old tutorials are not interactive. They are R Markdown documents hosted on RPubs. With new libraries and changes to Twitter/Facebook API, some content may have become obsolete. 
