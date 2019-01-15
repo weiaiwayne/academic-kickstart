@@ -12,6 +12,15 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 10
 
+[[item]]
+  title = "Neural Networks and Deep Learning"
+  organization = "Coursera"
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = ""
+  
+  
 # List format.
 #   0 = Simple
 #   1 = Detailed
