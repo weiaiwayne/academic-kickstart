@@ -11,9 +11,9 @@ weight = 5
 [interests]
   interests = [
     "data mining",
-    "Computational Communication",
-    "Text as Data",
-    "Network science",
+    "computational communication",
+    "text as data",
+    "network",
     "open data",
     "open-source"
   ]
@@ -38,7 +38,6 @@ weight = 5
 # What is CuriosityBits CC for?
 
 I built this site to share open-source content created in my research and teaching. You will find interactive tutorials on using R to collect, analyze, and visualize social data, a link to my recent publications, and a repository for past data visualization projects. Some of the content is also available at my old website (https://www.curiositybits.com/).
-
 
 # Biography
 
