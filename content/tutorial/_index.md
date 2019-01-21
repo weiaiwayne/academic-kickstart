@@ -13,6 +13,11 @@ I am developing a set of interactive tutorials on using R for social data analyt
 #### Access [the interactive tutorial](https://curiositybits.shinyapps.io/R_social_data_analytics/)
 
 #### Download [course syllabus](https://curiositybits.cc/files/497db_syllabus.pdf)
+
+Week1: [Slide: Introducing Digital Behavioral data](https://curiositybits.cc/files/W1_ 1.pdf) 
+Week1: [Slide: An Introduction to R](https://curiositybits.cc/files/W1_2.pdf) 
+Week1: [Week 1 Practice code](https://curiositybits.cc/files/W1_install_libraries_and_explore_data_frames.R) 
+
 --- 
 # Tutorials used in previous semesters
 The old tutorials are not interactive. They are R Markdown documents hosted on RPubs. With new libraries and changes to Twitter/Facebook API, some content may have become obsolete. 
@@ -38,9 +43,7 @@ The old tutorials are not interactive. They are R Markdown documents hosted on R
 --- 
 # Tutorials for COMM621 Quantitative Methods in Research (graduate seminar in spring 2019)
 
-[Syllabus: COMM621 Spring 2019](https://curiositybits.cc/files/comm621_spring2019.pdf) Week1: [Slide: Introducing Digital Behavioral data](https://curiositybits.cc/files/W1_ 1.pdf) 
-Week1: [Slide: An Introduction to R](https://curiositybits.cc/files/W1_2.pdf) 
-Week1: [Week 1 Practice code](https://curiositybits.cc/files/W1_install_libraries_and_explore_data_frames.R) 
+[Syllabus: COMM621 Spring 2019](https://curiositybits.cc/files/comm621_spring2019.pdf)
 
 Tutorials for COMM621 will be uploaded soon. Here is a list of tutorials used in Spring 2018. 
 
