@@ -14,11 +14,11 @@ I am developing a set of interactive tutorials on using R for social data analyt
 
 #### Download [course syllabus](https://curiositybits.cc/files/497db_syllabus.pdf)
 
-Week1: [Slide: Introducing Digital Behavioral data](https://curiositybits.cc/files/W1_ 1.pdf) 
+#### Week1: [Slide: Introducing Digital Behavioral data](https://curiositybits.cc/files/W1_ 1.pdf) 
 
-Week1: [Slide: An Introduction to R](https://curiositybits.cc/files/W1_2.pdf) 
+#### Week1: [Slide: An Introduction to R](https://curiositybits.cc/files/W1_2.pdf) 
 
-Week1: [Week 1 Practice code](https://curiositybits.cc/files/W1_install_libraries_and_explore_data_frames.R) 
+#### Week1: [Week 1 Practice code](https://curiositybits.cc/files/W1_install_libraries_and_explore_data_frames.R) 
 
 --- 
 # Tutorials used in previous semesters
