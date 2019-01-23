@@ -2,6 +2,10 @@
 
 install.packages("cowsay") #install a library
 library(cowsay) #load a library
+
+#or
+require(cowsay) 
+
 say("Hello! Welcome to COMM 497DB") #use the say() function in the cowsay library
 say("Try me. Hello! I am a cow.", by="cow")
 say("I am a pumpkin. Please talk to me.", by="pumpkin")
