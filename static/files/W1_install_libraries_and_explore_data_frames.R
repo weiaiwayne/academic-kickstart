@@ -1,6 +1,6 @@
 #This R practice script is used for in-class examples; please complete the interactive tutorial prior to using this script
 
-installed.packages("cowsay") #install a library
+install.packages("cowsay") #install a library
 library(cowsay) #load a library
 say("Hello! Welcome to COMM 497DB") #use the say() function in the cowsay library
 say("Try me. Hello! I am a cow.", by="cow")
