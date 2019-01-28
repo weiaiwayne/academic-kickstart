@@ -20,6 +20,11 @@ I am developing a set of interactive tutorials on using R for social data analyt
 
 #### Week1: [Week 1 Practice code](https://curiositybits.cc/files/W1_install_libraries_and_explore_data_frames.R) 
 
+#### Week2: [Slide: Application Programming Interfaces (API)](https://curiositybits.cc/files/W2_1.pdf) 
+
+#### Week2: [Week 2 Practice code for API](https://curiositybits.cc/files/W2_API.R) 
+
+
 --- 
 # Tutorials used in previous semesters
 The old tutorials are not interactive. They are R Markdown documents hosted on RPubs. With new libraries and changes to Twitter/Facebook API, some content may have become obsolete. 
