@@ -22,8 +22,11 @@ I am developing a set of interactive tutorials on using R for social data analyt
 
 #### Week2: [Slide: Application Programming Interfaces (API)](https://curiositybits.cc/files/W2_1.pdf) 
 
+#### Week2: [Slide: Collect Twitter Data](https://curiositybits.cc/files/W2_2.pdf) 
+
 #### Week2: [Week 2 Practice code for API](https://curiositybits.cc/files/W2_API.R) 
 
+#### Week2: [Week 2 Practice code for Collecting Twitter Data part 1](https://curiositybits.cc/files/W2_TW1.R) 
 
 --- 
 # Tutorials used in previous semesters
