@@ -1,6 +1,6 @@
 +++
 title = "Understand R Libraries/Packages"
-date = 2019-02-01T22:52:39-05:00
+date = 2019-01-31T22:52:39-05:00
 draft = false
 
 # Tags and categories
