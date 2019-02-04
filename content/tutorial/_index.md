@@ -14,19 +14,23 @@ I am developing a set of interactive tutorials on using R for social data analyt
 
 #### Download [course syllabus](https://curiositybits.cc/files/497db_syllabus.pdf)
 
-#### Week1: [Slide: Introducing Digital Behavioral data](https://curiositybits.cc/files/W1_1.pdf) 
+###### Week1: [Slide: Introducing Digital Behavioral data](https://curiositybits.cc/files/W1_1.pdf) 
 
-#### Week1: [Slide: An Introduction to R](https://curiositybits.cc/files/W1_2.pdf) 
+###### Week1: [Slide: An Introduction to R](https://curiositybits.cc/files/W1_2.pdf) 
 
-#### Week1: [Week 1 Practice code](https://curiositybits.cc/files/W1_install_libraries_and_explore_data_frames.R) 
+###### Week1: [Practice code](https://curiositybits.cc/files/W1_install_libraries_and_explore_data_frames.R) 
 
-#### Week2: [Slide: Application Programming Interfaces (API)](https://curiositybits.cc/files/W2_1.pdf) 
+###### Week2: [Slide: Application Programming Interfaces (API)](https://curiositybits.cc/files/W2_1.pdf) 
 
-#### Week2: [Slide: Collect Twitter Data](https://curiositybits.cc/files/W2_2.pdf) 
+###### Week2: [Slide: Collect Twitter Data](https://curiositybits.cc/files/W2_2.pdf) 
 
-#### Week2: [Week 2 Practice code for API](https://curiositybits.cc/files/W2_API.R) 
+###### Week2: [Practice code for API](https://curiositybits.cc/files/W2_API.R) 
 
-#### Week2: [Week 2 Practice code for Collecting Twitter Data part 1](https://curiositybits.cc/files/W2_TW1.R) 
+###### Week2: [Practice code for Collecting Twitter Data part 1](https://curiositybits.cc/files/W2_TW1.R) 
+
+###### Week3: [Slide: Twitter Data Explained](https://curiositybits.cc/files/W3_1.pdf) 
+
+###### Week3: [Practice code for Collecting Twitter Data part 2](https://curiositybits.cc/files/W3_TW2.R) 
 
 --- 
 # Tutorials used in previous semesters
