@@ -310,10 +310,10 @@ enableGitInfo = false
   url = "/post/"
   weight = 3
 
-#[[menu.main]]
-#  name = "•LIGHT"
-#  url = "/light/"
-#  weight = 8
+[[menu.main]]
+  name = "•LIGHT"
+  url = "/light/"
+  weight = 8
 
 [[menu.main]]
   name = "Tutorials"
