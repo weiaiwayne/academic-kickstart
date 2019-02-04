@@ -311,9 +311,9 @@ enableGitInfo = false
   weight = 3
 
 #[[menu.main]]
-#  name = "Projects"
-#  url = "/projects/"
-#  weight = 4
+#  name = "•LIGHT"
+#  url = "/light/"
+#  weight = 8
 
 [[menu.main]]
   name = "Tutorials"
