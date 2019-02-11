@@ -32,6 +32,10 @@ I am developing a set of interactive tutorials on using R for social data analyt
 
 ###### Week3: [Practice code for Collecting Twitter Data part 2](https://curiositybits.cc/files/W3_TW2.R) 
 
+###### Week4: [Slide: Visualizing Twitter Virality](https://curiositybits.cc/files/W4_ data_visualization.pdf) 
+
+###### Week3: [Practice code for visualizing virality](https://curiositybits.cc/files/W4_visualizing_virality.R) 
+
 --- 
 # Tutorials used in previous semesters
 The old tutorials are not interactive. They are R Markdown documents hosted on RPubs. With new libraries and changes to Twitter/Facebook API, some content may have become obsolete. 
