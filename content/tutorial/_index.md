@@ -12,29 +12,29 @@ I am developing a set of interactive tutorials on using R for social data analyt
 
 #### Access [the interactive tutorial](https://curiositybits.shinyapps.io/R_social_data_analytics/)
 
-#### Download [course syllabus](https://curiositybits.cc/files/497db_syllabus.pdf)
+* Download [course syllabus](https://curiositybits.cc/files/497db_syllabus.pdf)
 
-###### Week1: [Slide: Introducing Digital Behavioral data](https://curiositybits.cc/files/W1_1.pdf) 
+* Week1: [Slide: Introducing Digital Behavioral data](https://curiositybits.cc/files/W1_1.pdf) 
 
-###### Week1: [Slide: An Introduction to R](https://curiositybits.cc/files/W1_2.pdf) 
+* Week1: [Slide: An Introduction to R](https://curiositybits.cc/files/W1_2.pdf) 
 
-###### Week1: [Practice code](https://curiositybits.cc/files/W1_install_libraries_and_explore_data_frames.R) 
+* Week1: [Practice code](https://curiositybits.cc/files/W1_install_libraries_and_explore_data_frames.R) 
 
-###### Week2: [Slide: Application Programming Interfaces (API)](https://curiositybits.cc/files/W2_1.pdf) 
+* Week2: [Slide: Application Programming Interfaces (API)](https://curiositybits.cc/files/W2_1.pdf) 
 
-###### Week2: [Slide: Collect Twitter Data](https://curiositybits.cc/files/W2_2.pdf) 
+* Week2: [Slide: Collect Twitter Data](https://curiositybits.cc/files/W2_2.pdf) 
 
-###### Week2: [Practice code for API](https://curiositybits.cc/files/W2_API.R) 
+* Week2: [Practice code for API](https://curiositybits.cc/files/W2_API.R) 
 
-###### Week2: [Practice code for Collecting Twitter Data part 1](https://curiositybits.cc/files/W2_TW1.R) 
+* Week2: [Practice code for Collecting Twitter Data part 1](https://curiositybits.cc/files/W2_TW1.R) 
 
-###### Week3: [Slide: Twitter Data Explained](https://curiositybits.cc/files/W3_1.pdf) 
+* Week3: [Slide: Twitter Data Explained](https://curiositybits.cc/files/W3_1.pdf) 
 
-###### Week3: [Practice code for Collecting Twitter Data part 2](https://curiositybits.cc/files/W3_TW2.R) 
+* Week3: [Practice code for Collecting Twitter Data part 2](https://curiositybits.cc/files/W3_TW2.R) 
 
-###### Week4: [Slide: Visualizing Twitter Virality](https://curiositybits.cc/files/W4_ data_visualization.pdf) 
+* Week4: [Slide: Visualizing Twitter Virality](https://curiositybits.cc/files/W4_ data_visualization.pdf) 
 
-###### Week3: [Practice code for visualizing virality](https://curiositybits.cc/files/W4_visualizing_virality.R) 
+* Week4: [Practice code for visualizing virality](https://curiositybits.cc/files/W4_visualizing_virality.R) 
 
 --- 
 # Tutorials used in previous semesters
