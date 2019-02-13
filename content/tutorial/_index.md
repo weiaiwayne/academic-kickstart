@@ -63,6 +63,7 @@ The old tutorials are not interactive. They are R Markdown documents hosted on R
 
 [Syllabus: COMM621 Spring 2019](https://curiositybits.cc/files/comm621_spring2019.pdf)
 
-Tutorials for COMM621 will be uploaded soon. Here is a list of tutorials used in Spring 2018. 
+#### Access [the tutorial for COMM621 Quantitative Research Methods](https://rpubs.com/cosmopolitanvan/comm621_prettydoc)
+
 
 * [Bibliometrics and Quantitative Text Analysis of Journal Articles](http://rpubs.com/cosmopolitanvan/textanalysis) 
