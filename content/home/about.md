@@ -41,6 +41,6 @@ I built this site to share open-source content created in my research and teachi
 
 # Biography
 
-Weiai Xu (Wayne) is Assistant Professor in the Department of Communication at University Massachusetts – Amherst. His research focuses on social media and online communities,particularly how networked diffusion and relationship-building afford a new way to engage the public. He uses computational techniques to analyze content and connections in social media content. 
+Weiai Xu (Wayne) is Assistant Professor in the Department of Communication at University Massachusetts – Amherst. His research focuses on social media and online communities, particularly how networked diffusion and relationship-building afford a new way to engage the public. He uses computational techniques to analyze content and connections in social media content. 
 
 我目前服务于美国马萨诸塞州立大学阿默斯特校区（University Massachusetts – Amherst），担任该校传播系的助理副教授。我的研究重点是网络社会（network society)和如何用数据科学（data science）分析网络社会产生的海量行为数据。我开设的社会化媒体数据挖掘课程已经开源。请点击Tutorial栏查看开源代码和教程。
