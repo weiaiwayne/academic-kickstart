@@ -36,6 +36,10 @@ I am developing a set of interactive tutorials on using R for social data analyt
 
 * Week4: [Practice code for visualizing virality](https://curiositybits.cc/files/W4_visualizing_virality.R) 
 
+* Week5: [Slide: Sentiment detection](https://curiositybits.cc/files/W5_1.pdf) 
+
+* Week5: [Practice code for sentiment detection](https://curiositybits.cc/post/r_analytics9/) 
+
 --- 
 # Tutorials used in previous semesters
 The old tutorials are not interactive. They are R Markdown documents hosted on RPubs. With new libraries and changes to Twitter/Facebook API, some content may have become obsolete. 
