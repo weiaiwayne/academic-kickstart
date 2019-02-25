@@ -40,6 +40,10 @@ I am developing a set of interactive tutorials on using R for social data analyt
 
 * Week5: [Practice code for sentiment detection](https://curiositybits.cc/post/r_analytics9/) 
 
+* Week6: [Slide: Text as data part 1](https://curiositybits.cc/files/W6_1.pdf) 
+
+* Week6: [In-class practice code for Text as data part 1](https://curiositybits.cc/files/W6_1.R) 
+
 --- 
 # Tutorials used in previous semesters
 The old tutorials are not interactive. They are R Markdown documents hosted on RPubs. With new libraries and changes to Twitter/Facebook API, some content may have become obsolete. 
