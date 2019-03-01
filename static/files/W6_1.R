@@ -29,7 +29,9 @@ review_corpus_bycity
 ### CONCEPT 2: DFM
 ### Challenge 2: Create a DFM based on the corpus in which a document refers to all reviews from the same city
 reviews_dfm <- dfm(review_corpus)
+
 reviews_dfm[1:8,1:8]
+
 reviews_dfm[1:8,"great"]
 
 reviews_dfm %>% 
@@ -50,6 +52,8 @@ reviews_dfm %>%
 ### words: "highly" and "recommend."
 
 tokens(review_corpus[5])
+
+
 tokens(review_corpus[5],what = "sentence")
 
 reviews_tok <- tokens(review_corpus[5],remove_punct = TRUE,remove_numbers = TRUE, remove_symbols = TRUE, remove_twitter=TRUE, remove_url=TRUE)
