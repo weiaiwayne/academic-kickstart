@@ -44,6 +44,10 @@ I am developing a set of interactive tutorials on using R for social data analyt
 
 * Week6: [In-class practice code for Text as data part 1](https://curiositybits.cc/files/W6_1.R) 
 
+* Week7: [Slide: Text as data part 2](https://curiositybits.cc/files/W7_1.pdf) 
+
+* Week7: [In-class practice code for Text as data part 2](https://curiositybits.cc/files/W7_1.R) 
+
 --- 
 # Tutorials used in previous semesters
 The old tutorials are not interactive. They are R Markdown documents hosted on RPubs. With new libraries and changes to Twitter/Facebook API, some content may have become obsolete. 

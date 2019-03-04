@@ -60,7 +60,9 @@ reviews_tok <- tokens(review_corpus[5],remove_punct = TRUE,remove_numbers = TRUE
 reviews_tok <- tokens_select(reviews_tok, pattern = stopwords('en'), selection = 'remove')
 reviews_tok <- tokens_select(reviews_tok, pattern = c("lockbox","guests","however"), selection = 'remove')
 
-reviews_tok
+### WORK ZONE
+
+###
 
 ### CONCEPT 4: CREATE N-GRAMS
 ### Challenge 4: Create bigram (n=2) 
@@ -71,3 +73,33 @@ toks_ngram <- tokens_ngrams(reviews_tok, n = 3)
 dfm1 <- dfm(toks_ngram,remove = stopwords("english"),stem = FALSE, remove_punct = TRUE)
 #create wordcloud from the dfm
 textplot_wordcloud(dfm1, max_words = 100)
+
+### WORK ZONE
+
+###
+
+### CONCEPT 5: CREATE SEMANTIC NETWORKS
+### Challenge 5: create a semantic network with 120 features
+
+dfm1 <- dfm(review_corpus,remove = stopwords("english"),stem = FALSE, remove_punct = TRUE)
+dfm1 <- dfm_trim(dfm1, min_termfreq = 10)
+fcm1 <- fcm(dfm1) #create a feature co-occurrence network
+feat <- names(topfeatures(dfm1, 80)) #get the top 100 features (terms)
+selected_dfm <- fcm_select(fcm1, pattern = feat) #create a new dfm containing only the top features
+textplot_network(selected_dfm, min_freq = 0.8)
+
+### WORK ZONE
+
+###
+
+### CONCEPT 6: TOPIC MODELS
+### Challenge 6: apply a topic model to the corpus in which a reviewer's reviews is a document
+dfm1 <- dfm(review_corpus,remove = stopwords("english"),stem = FALSE, remove_punct = TRUE)
+dtm1 <- convert(dfm1, to = "topicmodels")
+lda <- LDA(dtm1, k = 3)
+terms(lda, 25)
+
+### WORK ZONE
+
+###
+
