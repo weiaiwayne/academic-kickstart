@@ -24,18 +24,22 @@ As a Christian who happens to be a professor, I use this section of the website 
 
 *On social justice*
 - [Generous Justice: How God's Grace Makes Us Just: Timothy Keller](https://www.goodreads.com/book/show/8414177-generous-justice)
+
 - [Real Hope in Chicago](https://www.goodreads.com/book/show/539458.Real_Hope_in_Chicago?ac=1&from_search=true)
 
 *Counter-culture*
 - [Counterfeit Gods: The Empty Promises of Money, Sex, and Power, and the Only Hope that Matters](https://www.goodreads.com/book/show/6403690-counterfeit-gods?from_search=true)
+
 - [Jesus Among Secular Gods: The Countercultural Claims of Christ](https://www.goodreads.com/book/show/30145137-jesus-among-secular-gods?from_search=true)
 
 *Christianity for the skeptics*
 - [Mere Christianity](https://www.goodreads.com/book/show/11138.Mere_Christianity?ac=1&from_search=true)
+
 - [The Reason for God: Belief in an Age of Skepticism](https://www.goodreads.com/book/show/1858013.The_Reason_for_God?from_search=true)
 
 *Faith and work*
 - [A Grander Story: An Invitation to Christian Professors](https://www.goodreads.com/book/show/35013728-a-grander-story?ac=1&from_search=true)
+
 - [Every Good Endeavor: Connecting Your Work to God's Plan for the World](https://www.goodreads.com/book/show/13589149-every-good-endeavor)
 
 *Faith and science*
@@ -47,8 +51,11 @@ As a Christian who happens to be a professor, I use this section of the website 
 
 **Podcasts**
 - [Let My People Think](https://itunes.apple.com/us/podcast/rzim-let-my-people-think-broadcasts/id1174079089)
+
 - [TGC Podcast](https://itunes.apple.com/us/podcast/tgc-podcast/id270128470)
+
 [Gospel in Life](https://itunes.apple.com/us/podcast/timothy-keller-sermons-podcast-by-gospel-in-life/id352660924)
+
 - [The Briefing](https://itunes.apple.com/us/podcast/the-briefing-albertmohler-com/id390278738)
 
 *and if you live in the Valley, check out*
