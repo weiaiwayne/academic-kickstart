@@ -56,6 +56,7 @@ As a Christian who happens to be a professor, I use this section of the website 
 * [Seeking Allah, Finding Jesus: A Devout Muslim Encounters Christianity](https://www.goodreads.com/book/show/18289396-seeking-allah-finding-jesus?ac=1&from_search=true)
 
 **Podcasts**
+
 * [Let My People Think](https://itunes.apple.com/us/podcast/rzim-let-my-people-think-broadcasts/id1174079089)
 
 * [TGC Podcast](https://itunes.apple.com/us/podcast/tgc-podcast/id270128470)
