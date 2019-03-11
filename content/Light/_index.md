@@ -23,16 +23,19 @@ As a Christian who happens to be a professor, I use this section of the website 
 **Books**
 
 *On social justice*
+
 * [Generous Justice: How God's Grace Makes Us Just: Timothy Keller](https://www.goodreads.com/book/show/8414177-generous-justice)
 
 * [Real Hope in Chicago](https://www.goodreads.com/book/show/539458.Real_Hope_in_Chicago?ac=1&from_search=true)
 
 *Counter-culture*
+
 * [Counterfeit Gods: The Empty Promises of Money, Sex, and Power, and the Only Hope that Matters](https://www.goodreads.com/book/show/6403690-counterfeit-gods?from_search=true)
 
 * [Jesus Among Secular Gods: The Countercultural Claims of Christ](https://www.goodreads.com/book/show/30145137-jesus-among-secular-gods?from_search=true)
 
 *Christianity for the skeptics*
+
 * [Mere Christianity](https://www.goodreads.com/book/show/11138.Mere_Christianity?ac=1&from_search=true)
 
 * [The Reason for God: Belief in an Age of Skepticism](https://www.goodreads.com/book/show/1858013.The_Reason_for_God?from_search=true)
@@ -43,10 +46,12 @@ As a Christian who happens to be a professor, I use this section of the website 
 * [Every Good Endeavor: Connecting Your Work to God's Plan for the World](https://www.goodreads.com/book/show/13589149-every-good-endeavor)
 
 *Faith and science*
+
 * [Reasonable Faith](https://www.goodreads.com/book/show/3332995-reasonable-faith?ac=1&from_search=true)
 * [The Language of God: A Scientist Presents Evidence for Belief](https://www.goodreads.com/book/show/35506.The_Language_of_God?ac=1&from_search=true)
 
 *Interfaith dialogue*
+
 * [Seeking Allah, Finding Jesus: A Devout Muslim Encounters Christianity](https://www.goodreads.com/book/show/18289396-seeking-allah-finding-jesus?ac=1&from_search=true)
 
 **Podcasts**
