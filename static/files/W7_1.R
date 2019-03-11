@@ -24,6 +24,9 @@ review_corpus_bycity
 
 ### WORK ZONE
 
+review_corpus_byuser <- corpus(reviews,docid_field = "reviewer_name",text_field = "comments")
+reviewer_corpus <- corpus(review_corpus_byuser,docid_field = "reviewer_name",text_field = "comments")
+
 ###
 
 ### CONCEPT 2: DFM
@@ -43,7 +46,7 @@ reviews_dfm %>%
   theme_minimal()
 
 ### WORK ZONE
-
+reviews_bycity_dfm <- dfm(review_corpus_bycity)
 ###
 
 ### CONCEPT 3: TOKENIZATION
@@ -61,6 +64,9 @@ reviews_tok <- tokens_select(reviews_tok, pattern = stopwords('en'), selection =
 reviews_tok <- tokens_select(reviews_tok, pattern = c("lockbox","guests","however"), selection = 'remove')
 
 ### WORK ZONE
+reviews_tok <- tokens(review_corpus[10],remove_punct = TRUE,remove_numbers = TRUE, remove_symbols = TRUE, remove_twitter=TRUE, remove_url=TRUE)
+reviews_tok <- tokens_select(reviews_tok, pattern = stopwords('en'), selection = 'remove')
+reviews_tok <- tokens_select(reviews_tok, pattern = c("highly","recommend"), selection = 'remove')
 
 ###
 
@@ -75,7 +81,7 @@ dfm1 <- dfm(toks_ngram,remove = stopwords("english"),stem = FALSE, remove_punct 
 textplot_wordcloud(dfm1, max_words = 100)
 
 ### WORK ZONE
-
+toks_ngram <- tokens_ngrams(reviews_tok, n = 2) 
 ###
 
 ### CONCEPT 5: CREATE SEMANTIC NETWORKS
@@ -89,6 +95,12 @@ selected_dfm <- fcm_select(fcm1, pattern = feat) #create a new dfm containing on
 textplot_network(selected_dfm, min_freq = 0.8)
 
 ### WORK ZONE
+dfm1 <- dfm(review_corpus,remove = stopwords("english"),stem = FALSE, remove_punct = TRUE)
+dfm1 <- dfm_trim(dfm1, min_termfreq = 10)
+fcm1 <- fcm(dfm1) #create a feature co-occurrence network
+feat <- names(topfeatures(dfm1, 120)) #get the top 100 features (terms)
+selected_dfm <- fcm_select(fcm1, pattern = feat) #create a new dfm containing only the top features
+textplot_network(selected_dfm, min_freq = 0.8)
 
 ###
 
@@ -100,6 +112,9 @@ lda <- LDA(dtm1, k = 3)
 terms(lda, 25)
 
 ### WORK ZONE
-
+dfm1 <- dfm(reviewer_corpus,remove = stopwords("english"),stem = FALSE, remove_punct = TRUE)
+dtm1 <- convert(dfm1, to = "topicmodels")
+lda <- LDA(dtm1, k = 3)
+terms(lda, 25)
 ###
 
