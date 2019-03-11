@@ -49,6 +49,7 @@ As a Christian who happens to be a professor, I use this section of the website 
 *Faith and science*
 
 * [Reasonable Faith](https://www.goodreads.com/book/show/3332995-reasonable-faith?ac=1&from_search=true)
+
 * [The Language of God: A Scientist Presents Evidence for Belief](https://www.goodreads.com/book/show/35506.The_Language_of_God?ac=1&from_search=true)
 
 *Interfaith dialogue*
@@ -61,9 +62,9 @@ As a Christian who happens to be a professor, I use this section of the website 
 
 * [TGC Podcast](https://itunes.apple.com/us/podcast/tgc-podcast/id270128470)
 
-[Gospel in Life](https://itunes.apple.com/us/podcast/timothy-keller-sermons-podcast-by-gospel-in-life/id352660924)
+* [Gospel in Life](https://itunes.apple.com/us/podcast/timothy-keller-sermons-podcast-by-gospel-in-life/id352660924)
 
-- [The Briefing](https://itunes.apple.com/us/podcast/the-briefing-albertmohler-com/id390278738)
+* [The Briefing](https://itunes.apple.com/us/podcast/the-briefing-albertmohler-com/id390278738)
 
 *and if you live in the Valley, check out*
 
