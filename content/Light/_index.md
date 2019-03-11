@@ -41,6 +41,7 @@ As a Christian who happens to be a professor, I use this section of the website 
 * [The Reason for God: Belief in an Age of Skepticism](https://www.goodreads.com/book/show/1858013.The_Reason_for_God?from_search=true)
 
 *Faith and work*
+
 * [A Grander Story: An Invitation to Christian Professors](https://www.goodreads.com/book/show/35013728-a-grander-story?ac=1&from_search=true)
 
 * [Every Good Endeavor: Connecting Your Work to God's Plan for the World](https://www.goodreads.com/book/show/13589149-every-good-endeavor)
@@ -64,6 +65,7 @@ As a Christian who happens to be a professor, I use this section of the website 
 - [The Briefing](https://itunes.apple.com/us/podcast/the-briefing-albertmohler-com/id390278738)
 
 *and if you live in the Valley, check out*
+
 [Grace for the Way](https://itunes.apple.com/us/podcast/grace-for-the-way/id1062323480?mt=2)
 
 
