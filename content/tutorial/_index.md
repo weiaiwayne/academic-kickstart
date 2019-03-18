@@ -25,7 +25,6 @@ I am developing a set of interactive tutorials on using R for social data analyt
 * Week2: [Slide: Collect Twitter Data](https://curiositybits.cc/files/W2_2.pdf) 
 
 * Week2: [Practice code for API](https://curiositybits.cc/files/W2_API.R) 
-
 * Week2: [Practice code for Collecting Twitter Data part 1](https://curiositybits.cc/files/W2_TW1.R) 
 
 * Week3: [Slide: Twitter Data Explained](https://curiositybits.cc/files/W3_1.pdf) 
@@ -47,6 +46,10 @@ I am developing a set of interactive tutorials on using R for social data analyt
 * Week7: [Slide: Text as data part 2](https://curiositybits.cc/files/W7_1.pdf) 
 
 * Week7: [In-class practice code for Text as data part 2](https://curiositybits.cc/files/W7_1.R) 
+
+* Week9: [Slide: Insights from networks](https://curiositybits.cc/files/W9.pdf)
+
+* Week9: [Tutorial: Insights from networks](http://rpubs.com/cosmopolitanvan/networks_497db)
 
 --- 
 # Tutorials used in previous semesters
