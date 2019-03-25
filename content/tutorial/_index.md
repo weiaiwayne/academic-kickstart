@@ -54,6 +54,7 @@ I am developing a set of interactive tutorials on using R for social data analyt
 * Week10: [Slide: Geo-mapping](https://curiositybits.cc/files/W10.pdf)
 
 * Week10: [Tutorial: Geo-mapping](http://rpubs.com/cosmopolitanvan/geomapping_497db)
+
 --- 
 # Tutorials used in previous semesters
 The old tutorials are not interactive. They are R Markdown documents hosted on RPubs. With new libraries and changes to Twitter/Facebook API, some content may have become obsolete. 
