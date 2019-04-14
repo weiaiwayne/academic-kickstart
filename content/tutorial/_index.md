@@ -55,6 +55,14 @@ I am developing a set of interactive tutorials on using R for social data analyt
 
 * Week10: [Tutorial: Geo-mapping](http://rpubs.com/cosmopolitanvan/geomapping_497db)
 
+* Week11-12: Discussions on bias, propaganda, privacy, and surveillance.  (shoot me an email if you want to request related worksheets and lecture slides)
+
+* Final Project: [How to build a R Shiny app](https://curiositybits.cc/files/r_shiny_demo.pdf)
+
+* Final Project: [Example app code 1](https://curiositybits.cc/files/map_with_charts.zip)
+
+* Final Project: [Example app code 1](https://curiositybits.cc/files/map_with_wordcloud.zip)
+
 --- 
 # Tutorials used in previous semesters
 The old tutorials are not interactive. They are R Markdown documents hosted on RPubs. With new libraries and changes to Twitter/Facebook API, some content may have become obsolete. 
