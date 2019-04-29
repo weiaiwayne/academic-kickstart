@@ -63,6 +63,8 @@ I am developing a set of interactive tutorials on using R for social data analyt
 
 * Final Project: [Example app code 1](https://curiositybits.cc/files/map_with_wordcloud.zip)
 
+* Final Project: [Slide: how to deploy a Shiny app](https://curiositybits.cc/files/deploy_app.pdf)
+
 --- 
 # Tutorials used in previous semesters
 The old tutorials are not interactive. They are R Markdown documents hosted on RPubs. With new libraries and changes to Twitter/Facebook API, some content may have become obsolete. 
