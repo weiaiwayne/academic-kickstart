@@ -64,7 +64,7 @@ tags = ["R", "R tutorials", "social media analytics", "data mining", "data visua
 
 * Final Project: [Slide: how to deploy a Shiny app](https://curiositybits.cc/files/deploy_app.pdf)
 
-#### Student Work & Showcase (Spring 2019)
+#### Student Work & Showcase (From Spring 2019)
 
 * [Notre Dame Cathedral Fire](https://wozniak.shinyapps.io/Akwozniak/)
 * [Wordcloud and Geo-Mapping for #GameofThrones](https://angelamcn.shinyapps.io/GameofThrones/)
