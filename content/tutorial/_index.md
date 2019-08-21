@@ -6,13 +6,11 @@ math = false
 highlight = false
 tags = ["R", "R tutorials", "social media analytics", "data mining", "data visualization"]
 +++
-# COMM497DB Spring 2019
-
-I am developing a set of interactive tutorials on using R for social data analytics. Throughout the semester, I will update the tutorials bi-weekly to include new topics. 
+# COMM497DB Fall 2019
 
 #### Access [the interactive tutorial](https://curiositybits.shinyapps.io/R_social_data_analytics/)
 
-* Download [course syllabus](https://curiositybits.cc/files/497db_syllabus.pdf)
+* Download [course syllabus](https://curiositybits.cc/files/COMM497-DB Syllabus_Fall_2019.pdf)
 
 * Week1: [Slide: Introducing Digital Behavioral data](https://curiositybits.cc/files/W1_1.pdf) 
 
@@ -25,6 +23,7 @@ I am developing a set of interactive tutorials on using R for social data analyt
 * Week2: [Slide: Collect Twitter Data](https://curiositybits.cc/files/W2_2.pdf) 
 
 * Week2: [Practice code for API](https://curiositybits.cc/files/W2_API.R) 
+
 * Week2: [Practice code for Collecting Twitter Data part 1](https://curiositybits.cc/files/W2_TW1.R) 
 
 * Week3: [Slide: Twitter Data Explained](https://curiositybits.cc/files/W3_1.pdf) 
