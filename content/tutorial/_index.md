@@ -64,6 +64,19 @@ tags = ["R", "R tutorials", "social media analytics", "data mining", "data visua
 
 * Final Project: [Slide: how to deploy a Shiny app](https://curiositybits.cc/files/deploy_app.pdf)
 
+#### Student Work & Showcase (Spring 2019)
+
+* [Notre Dame Cathedral Fire](https://wozniak.shinyapps.io/Akwozniak/)
+* [Wordcloud and Geo-Mapping for #GameofThrones](https://angelamcn.shinyapps.io/GameofThrones/)
+* [Looking into Climate Change](https://allymariebrown.shinyapps.io/Demo/)
+* [Twitter: #Bruins](https://aaboyle.shinyapps.io/FINAL_Coding/)
+* [Russian Foreign Influence Twitter Campaign During the First US Presidential Debate of 2016](https://carl-macdonald.shinyapps.io/2016RussianMeddlingABiggerPicture/)
+* [Understanding opinions on #GunControl](https://carolinemiller.shinyapps.io/cmfinalproject/)
+* [Sentiments about Graduation 2019](https://comm497finalproject.shinyapps.io/Graduation2019/)
+* [Joe Biden: a Twitter Analysis](https://jakemartins.shinyapps.io/JoeBidenMap/)
+* [Avengers End Game](https://nbajracharya.shinyapps.io/final/)
+* [UMass Hockey Tweets](https://seschwartz.shinyapps.io/Documents/)
+
 --- 
 # Tutorials used in previous semesters
 The old tutorials are not interactive. They are R Markdown documents hosted on RPubs. With new libraries and changes to Twitter/Facebook API, some content may have become obsolete. 
