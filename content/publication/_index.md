@@ -16,6 +16,7 @@ Most of my works are conducted in the context of the internet in the US. As a Ch
  - Counterpublics on social media formed by political fringe groups
  - Moral framing in global disinformation flows
  - How authoritarian governments nudge citizens in internet governance
+ - Coronavirus discourse on Twitter: see visualizations (Jan, Feb)
 
 
 In compliance with the copyright law, I am showing only pre-prints hosted by ScholarWorks@UMass Amherst since 2017. For a complete list of publications, visit my [Google Scholar page ](https://scholar.google.com/citations?hl=en&user=c87IeKoAAAAJ&view_op=list_works&sortby=pubdate) or [ResearchGate] (https://www.researchgate.net/profile/Weiai_Xu) 
