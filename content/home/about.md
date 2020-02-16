@@ -37,7 +37,7 @@ weight = 5
 +++
 # What is CuriosityBits CC for?
 
-I built this site to share open-source content created in my research and teaching. You will find interactive tutorials on using R to collect, analyze, and visualize social data, copies to my recent publications, and a repository for past data visualization projects. Some of the content is also available on my old website (https://www.curiositybits.com/).
+I built this site to share open-source content created in my research and teaching. You will find interactive tutorials on using R to collect, analyze, and visualize social media data, copies to my recent publications, and a repository for past data visualization projects. Some of the content is also available on my old website (https://www.curiositybits.com/).
 
 # Biography
 
