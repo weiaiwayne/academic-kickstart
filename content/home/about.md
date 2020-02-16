@@ -35,6 +35,11 @@ weight = 5
   year = 2009
  
 +++
+# Latest News
+* Read my [recent work](https://ijoc.org/index.php/ijoc/article/view/11978/2978) on the Alt-right and Antifa and their collective actions on Twitter.
+* Read my [recent paper](https://www.sciencedirect.com/science/article/abs/pii/S0736585319307774) on online public spheres on Chinese Weibo.
+* I am building [a visualization tracker](https://weiaiwayne.github.io/CoronavirusTwitter/) for Twitter-based discourse concerning the Coronavirus outbreak.
+
 # What is CuriosityBits CC for?
 
 I built this site to share open-source content created in my research and teaching. You will find interactive tutorials on using R to collect, analyze, and visualize social media data, copies to my recent publications, and a repository for past data visualization projects. Some of the content is also available on my old website (https://www.curiositybits.com/).
