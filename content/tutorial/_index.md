@@ -100,11 +100,10 @@ The old tutorials are not interactive. They are R Markdown documents hosted on R
 * [Twitter Discussion Networks After the Election](https://curiositybits.shinyapps.io/Jacob_app/) 
 
 --- 
-# Tutorials for COMM621 Quantitative Methods in Research (graduate seminar in spring 2019)
+# Tutorials for COMM621 Quantitative Methods in Research (graduate seminar in SP 2020)
 
-[Syllabus: COMM621 Spring 2019](https://curiositybits.cc/files/comm621_spring2019.pdf)
+[Syllabus: COMM621 the 2019 version](https://curiositybits.cc/files/comm621_spring2019.pdf)
 
-#### Access [the tutorial for COMM621 Quantitative Research Methods](https://rpubs.com/cosmopolitanvan/comm621_prettydoc1)
-
+#### Access [the tutorial for COMM621 Quantitative Research Methods](https://weiaiwayne.github.io/teaching_comm621/COMM621SP2020.html)
 
 * [Bibliometrics and Quantitative Text Analysis of Journal Articles](http://rpubs.com/cosmopolitanvan/textanalysis) 
