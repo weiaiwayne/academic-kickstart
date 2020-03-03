@@ -9,7 +9,7 @@ I am broadly interested in researching **the health of the internet**, which ent
 
 Most of my works are conducted in the context of the internet in the US. As a Chinese-born scholar, I have also taken a keen interest in observing the evolution of the Chinese digital society. 
 
-**For a complete list of publications, visit my [Google Scholar page ]**(https://scholar.google.com/citations?hl=en&user=c87IeKoAAAAJ&view_op=list_works&sortby=pubdate)
+**For a complete list of publications, visit my [Google Scholar page ](https://scholar.google.com/citations?hl=en&user=c87IeKoAAAAJ&view_op=list_works&sortby=pubdate)
 
 ### Current projects
 
