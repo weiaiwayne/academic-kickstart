@@ -52,10 +52,6 @@ As a Christian who happens to be a professor, I use this section of the website 
 
 * [The Language of God: A Scientist Presents Evidence for Belief](https://www.goodreads.com/book/show/35506.The_Language_of_God?ac=1&from_search=true)
 
-*Interfaith dialogue*
-
-* [Seeking Allah, Finding Jesus: A Devout Muslim Encounters Christianity](https://www.goodreads.com/book/show/18289396-seeking-allah-finding-jesus?ac=1&from_search=true)
-
 **Podcasts**
 
 * [Let My People Think](https://itunes.apple.com/us/podcast/rzim-let-my-people-think-broadcasts/id1174079089)
