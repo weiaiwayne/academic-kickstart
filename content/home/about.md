@@ -38,7 +38,7 @@ weight = 5
 # Latest News
 * Read my [recent work](https://ijoc.org/index.php/ijoc/article/view/11978/2978) on the Alt-right and Antifa and their collective actions on Twitter.
 * Read my [recent paper](https://www.sciencedirect.com/science/article/abs/pii/S0736585319307774) on online public spheres on Chinese Weibo.
-* I am building [a visualization tracker](https://weiaiwayne.github.io/CoronavirusTwitter/) for Twitter-based discourse concerning the Coronavirus outbreak.
+* I am building [a visualization tracker](https://weiaiwayne.github.io/COVID19Twitter/) for Twitter-based discourse concerning the Coronavirus outbreak.
 
 # What is CuriosityBits CC for?
 
