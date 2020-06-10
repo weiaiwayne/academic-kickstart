@@ -311,7 +311,7 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "•Light•"
+  name = "•Faith•"
   url = "/light/"
   weight = 8
 
