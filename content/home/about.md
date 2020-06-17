@@ -35,6 +35,9 @@ weight = 5
   year = 2009
  
 +++
+# Biography
+I am an Assistant Professor in the Department of Communication at University Massachusetts – Amherst. I use computer codes to study the three-D problem on digital platforms. The 3 Ds are: **discord**, **distrust**, and **dishonesty** (and maybe I can throw the 4th D here, which could be **distraction**).
+
 # Latest Publications
 * Read my recent work on [partisan news diffusion](https://www.tandfonline.com/doi/abs/10.1080/21670811.2020.1761264).
 * Read my recent work on [the Alt-right and Antifa and their collective actions on Twitter](https://ijoc.org/index.php/ijoc/article/view/11978/2978).
@@ -50,9 +53,5 @@ weight = 5
 # What is CuriosityBits CC for?
 
 I built this site to share open-source content created in my research and teaching. You will find interactive tutorials on using R to collect, analyze, and visualize social media data, copies to my recent publications, and a repository for past data visualization projects. Some of the content is also available on my old website (https://www.curiositybits.com/).
-
-# Biography
-
-Weiai Xu (Wayne) is Assistant Professor in the Department of Communication at University Massachusetts – Amherst. His research focuses on social media and online communities, particularly how networked diffusion and relationship-building afford a new way to engage the public. He uses computational techniques to analyze content and connections in social media content. 
 
 我目前服务于美国马萨诸塞州立大学阿默斯特校区（University Massachusetts – Amherst），担任该校传播系的助理副教授。我的研究重点是网络社会（network society)和如何用数据科学（data science）分析网络社会产生的海量行为数据。我开设的社会化媒体数据挖掘课程已经开源。请点击Tutorial栏查看开源代码和教程。
