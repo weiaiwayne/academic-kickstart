@@ -36,7 +36,7 @@ weight = 5
  
 +++
 # Biography
-I am an Assistant Professor in the Department of Communication at University Massachusetts – Amherst. I use computer codes to study the three-D problem on digital platforms. The 3 Ds are: **discord**, **distrust**, and **dishonesty** (and maybe I can throw the 4th D here, which could be **distraction**).
+I am an Assistant Professor in the Department of Communication at University Massachusetts – Amherst. I use computer codes to study the three-D problem on digital platforms. The 3 Ds are: **discord**, **distrust**, and **dishonesty** (and maybe I can throw in the 4th D here, which would be **distraction**).
 
 # Latest Publications
 * Read my recent work on [partisan news diffusion](https://www.tandfonline.com/doi/abs/10.1080/21670811.2020.1761264).
