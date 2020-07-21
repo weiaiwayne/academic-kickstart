@@ -53,5 +53,3 @@ I am an Assistant Professor in the Department of Communication at University Mas
 # What is CuriosityBits CC for?
 
 I built this site to share open-source content created in my research and teaching. You will find interactive tutorials on using R to collect, analyze, and visualize social media data, copies to my recent publications, and a repository for past data visualization projects. Some of the content is also available on my old website (https://www.curiositybits.com/).
-
-我目前服务于美国马萨诸塞州立大学阿默斯特校区（University Massachusetts – Amherst），担任该校传播系的助理副教授。我的研究重点是网络社会（network society)和如何用数据科学（data science）分析网络社会产生的海量行为数据。我开设的社会化媒体数据挖掘课程已经开源。请点击Tutorial栏查看开源代码和教程。
