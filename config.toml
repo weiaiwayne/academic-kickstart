@@ -71,7 +71,7 @@ enableGitInfo = false
   Otherwise email to book an appointment
   """
   phone = "413 545-3519"
-  skype = "cosmopolitanvan"
+  skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
