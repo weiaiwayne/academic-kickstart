@@ -60,7 +60,6 @@ As a Christian who happens to be a professor, I use this section of the website 
 
 * [Gospel in Life](https://itunes.apple.com/us/podcast/timothy-keller-sermons-podcast-by-gospel-in-life/id352660924)
 
-* [The Briefing](https://itunes.apple.com/us/podcast/the-briefing-albertmohler-com/id390278738)
 
 *and if you live in the Valley, check out*
 
