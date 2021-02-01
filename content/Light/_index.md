@@ -54,8 +54,6 @@ As a Christian who happens to be a professor, I use this section of the website 
 
 **Podcasts**
 
-* [Let My People Think](https://itunes.apple.com/us/podcast/rzim-let-my-people-think-broadcasts/id1174079089)
-
 * [TGC Podcast](https://itunes.apple.com/us/podcast/tgc-podcast/id270128470)
 
 * [Gospel in Life](https://itunes.apple.com/us/podcast/timothy-keller-sermons-podcast-by-gospel-in-life/id352660924)
