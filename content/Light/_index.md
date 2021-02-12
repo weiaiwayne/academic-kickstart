@@ -32,8 +32,6 @@ As a Christian who happens to be a professor, I use this section of the website 
 
 * [Counterfeit Gods: The Empty Promises of Money, Sex, and Power, and the Only Hope that Matters](https://www.goodreads.com/book/show/6403690-counterfeit-gods?from_search=true)
 
-* [Jesus Among Secular Gods: The Countercultural Claims of Christ](https://www.goodreads.com/book/show/30145137-jesus-among-secular-gods?from_search=true)
-
 *Christianity for the skeptics*
 
 * [Mere Christianity](https://www.goodreads.com/book/show/11138.Mere_Christianity?ac=1&from_search=true)
