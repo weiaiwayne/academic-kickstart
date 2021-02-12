@@ -18,7 +18,17 @@ As a Christian who happens to be a professor, I use this section of the website 
 **Faith and academia are never separate realms**. As a social scientist, I trust that empirical data give us insights about regularities in life, but, faith provides the ultimate metanarrative about the meanings of life, work, and relationships. I study internet society and how citizens come together to fight social ills. Faith can explain such resilience and grace of human race because we are created in [God’s image](https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=NIV). As I also research the dark side of the internet society, including things such as hate, distrust, polarization, segregation, disinformation, and propaganda, I have perhaps more data to show the ultimate fall of human race: the sins of our self-centeredness and pride, the futility of social engineering and technological revolutions. I believe neither democratic platform nor sound social policy can save us from an age of hate and ignorance, albeit they can be helpful at times. The true reconciliation comes through [amending our relationship with our Creator](https://www.biblica.com/bible/niv/ephesians/2/). Below I list resources that have shaped my thinking over the past three years.
 
 **Christian thinkers**
-[Timothy Keller](http://www.timothykeller.com/), [C. S. Lewis](http://www.cslewis.com/us/), and [Ravi Zacharias](https://www.youtube.com/results?search_query=ravi+zacharias).
+[Timothy Keller](http://www.timothykeller.com/) and [C. S. Lewis](http://www.cslewis.com/us/).
+
+**My own faith reflection**
+
+* [Clubhouse invites and a heavenly invite](https://curiositybits.medium.com/clubhouse-invites-and-a-heavenly-invite-39ff0c9dc1b0)
+
+* [Lunar New Year and a song of lament](https://curiositybits.medium.com/lunar-new-year-and-a-song-of-lament-e29f23bb98dd)
+
+**Articles**
+
+* [The defiant hope of Christmas: God is with us](https://www.washingtonpost.com/opinions/2020/12/24/defiant-hope-christmas-god-is-with-us/?arc404=true)
 
 **Books**
 
