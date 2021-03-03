@@ -50,7 +50,8 @@ I am an Assistant Professor in the Department of Communication at University Mas
 # Data projects
 * I am building [a visualization tracker](https://weiaiwayne.github.io/COVID19Twitter/) for Twitter-based discourse concerning the Coronavirus outbreak.
 
-# Non-Academic Writings: I write a Substack called Opensource Soul Project https://opensourcesoul.substack.com/ 
+# Non-Academic Writings
+I write a Substack called Opensource Soul Project https://opensourcesoul.substack.com/ 
 
 # What is CuriosityBits CC for?
 
