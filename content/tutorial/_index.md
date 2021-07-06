@@ -64,6 +64,10 @@ tags = ["R", "R tutorials", "social media analytics", "data mining", "data visua
 
 * Final Project: [Slide: how to deploy a Shiny app](https://curiositybits.cc/files/deploy_app.pdf)
 
+
+#### Student Work & Showcase (From Summer 2021)
+* [Who is #vaccinated](https://stevelinberg.shinyapps.io/697DB_final_project/)
+
 #### Student Work & Showcase (From Spring 2019)
 
 * [Notre Dame Cathedral Fire](https://wozniak.shinyapps.io/Akwozniak/)
