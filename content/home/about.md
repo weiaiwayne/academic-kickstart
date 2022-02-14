@@ -38,7 +38,9 @@ weight = 5
 # Biography
 I am an Assistant Professor in the Department of Communication at University Massachusetts – Amherst. I use computer codes to study the three-D problem on digital platforms. The 3 Ds are: **discord**, **distrust**, and **dishonesty** (and maybe I can throw in the 4th D here, which would be **distraction**).
 
-# Latest Publications
+# Latest Publications & Projects
+* My recent interviews with the Associated Press on [alt-tech](https://abcnews.go.com/Business/wireStory/year-trump-purge-alt-tech-offers-refuge-82692731) and [Spotify's Joe Rogan problem](https://apnews.com/article/technology-entertainment-business-media-neil-young-fd082ce7f194dcae279df62ec435d281).
+* Read my recent work on [state-affiliated media](https://ijoc.org/index.php/ijoc/article/download/17191/3645)
 * Read my recent work on [partisan news diffusion](https://www.tandfonline.com/doi/abs/10.1080/21670811.2020.1761264).
 * Read my recent work on [the Alt-right and Antifa and their collective actions on Twitter](https://ijoc.org/index.php/ijoc/article/view/11978/2978).
 * Read my [recent paper](https://www.sciencedirect.com/science/article/abs/pii/S0736585319307774) on online public spheres on Chinese Weibo.
