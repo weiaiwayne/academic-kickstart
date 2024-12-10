@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2019-01-11T00:00:00
+date = 2024-12-09T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "data mining",
+    "GenAI",
     "computational communication",
     "text as data",
     "network",
@@ -28,15 +28,10 @@ weight = 5
   course = "MA in Media Studies"
   institution = "UW-Milwaukee"
   year = 2011
-
-[[education.courses]]
-  course = "BA in Public Administration"
-  institution = "Zhejiang University of Technology, China"
-  year = 2009
  
 +++
 # Biography
-I am an Associate Professor in the Department of Communication at University Massachusetts – Amherst. I use computer codes to study the three-D problem on digital platforms. The 3 Ds are: **discord**, **distrust**, and **dishonesty** (and maybe I can throw in the 4th D here, which would be **distraction**).
+Dr. Xu researches political discourse across digital platforms, focusing on how such discourse is spread through networked digital infrastructure and the impact of far-right populism and nationalism. He employs computational models to identify key players, influential spheres, and prominent topics in online political conversations. His work aims to foster a global public sphere that is open, vibrant, and robust, capable of countering the threats of democratic backsliding and authoritarianism.
 
 # Latest Publications & Projects
 * My recent interviews with the New York Times on [alt-tech](https://www.nytimes.com/2022/02/18/business/trumps-truth-social.html)
@@ -47,11 +42,12 @@ I am an Associate Professor in the Department of Communication at University Mas
 * Read my [recent paper](https://www.sciencedirect.com/science/article/abs/pii/S0736585319307774) on online public spheres on Chinese Weibo.
 
 # Current research
-* Currently leading the research group to study [China's Digital Public Diplomacy Operations during the COVID-19 Crisis](https://converge.colorado.edu/resources/covid-19/working-groups/research-networks-methods-ethics/mapping-chinas-public-diplomacy-operations-on-twitter-during-the-covid-19-crisis). The research group is supported by the National Science Foundation-funded Social Science Extreme Events Research (SSEER) Network and the CONVERGE facility at the Natural Hazards Center at the University of Colorado Boulder (NSF Award #1841338)
-* Co-Investigator on a multi-national grant project funded by the Canadian Institutes of Health Research to study community responses to COVID-19. 
+* Generative AI and political discourse
+* Generative AI, synthetic media production, activism
 
-# Data projects
-* I am building [a visualization tracker](https://weiaiwayne.github.io/COVID19Twitter/) for Twitter-based discourse concerning the Coronavirus outbreak.
+# Fun AI projects
+* I am the mastermind behind this AI-generated podcast: [Real Time with AI Agents](https://opensourcesoul.substack.com/s/real-time-with-ai-agents)
+* I am the culprit behind this [bot](https://bsky.app/profile/opensourcesoul.bsky.social) that automates creativity through LLMs. 
 
 # Non-Academic Writings
 I write a Substack called Opensource Soul Project https://opensourcesoul.substack.com/ 
