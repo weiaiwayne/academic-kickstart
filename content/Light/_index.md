@@ -20,6 +20,11 @@ As a Christian who happens to be a professor, I use this section of the website 
 **Christian thinkers**
 [Timothy Keller](http://www.timothykeller.com/) and [C. S. Lewis](http://www.cslewis.com/us/).
 
+**AGI Media**
+
+I am the Chief Operating Officer of LampBotics, which operates this Instagram account [Faith Time with AI Agents](https://www.instagram.com/faithtimeaiagents/). It leverages Generative AI tools to produce weekly animated clips on Bible and the Christian faith.  
+
+
 **My own faith reflection**
 
 * [Clubhouse invites and a heavenly invite](https://curiositybits.medium.com/clubhouse-invites-and-a-heavenly-invite-39ff0c9dc1b0)
