@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2024-12-09T00:00:00
+date = 2025-01-30T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "GenAI",
+    "Generative AI",
     "computational communication",
     "text as data",
     "network",
@@ -31,7 +31,17 @@ weight = 5
  
 +++
 # Biography
-Dr. Xu researches political discourse across digital platforms, focusing on how such discourse is spread through networked digital infrastructure and the impact of far-right populism and nationalism. He employs computational models to identify key players, influential spheres, and prominent topics in online political conversations. His work aims to foster a global public sphere that is open, vibrant, and robust, capable of countering the threats of democratic backsliding and authoritarianism.
+Dr. Xu researches political discourse across digital platforms, focusing on how such discourse is spread through networked digital infrastructure and the impact of ideologies. He employs computational models to identify key players, influential spheres, and prominent topics in online political conversations. His work aims to foster a global public sphere that is open, vibrant, and robust, capable of countering the threats of democratic backsliding and authoritarianism.
+
+# Current research
+* Generative AI and political discourse: see [my recent experiments](https://opensourcesoul.substack.com/)
+* Generative AI, synthetic media production, activism
+
+# Fun AI projects
+* I co-founded [Robovive](https://www.robovive.com/), a startup dedicated to empowering K-12 students with hands-on learning in AI, robotics, and media literacy.
+* I am behind LampBotics, which operates [this Instagram account](https://www.instagram.com/faithtimeaiagents/), which levaers Generative AI tools for media productions.
+* I am the mastermind behind this AI-generated podcast: [Real Time with AI Agents](https://opensourcesoul.substack.com/s/real-time-with-ai-agents)
+* I am the culprit behind this [bot](https://bsky.app/profile/opensourcesoul.bsky.social) that automates creativity through LLMs. 
 
 # Latest Publications & Projects
 * My recent interviews with the New York Times on [alt-tech](https://www.nytimes.com/2022/02/18/business/trumps-truth-social.html)
@@ -41,17 +51,9 @@ Dr. Xu researches political discourse across digital platforms, focusing on how 
 * Read my recent work on [the Alt-right and Antifa and their collective actions on Twitter](https://ijoc.org/index.php/ijoc/article/view/11978/2978).
 * Read my [recent paper](https://www.sciencedirect.com/science/article/abs/pii/S0736585319307774) on online public spheres on Chinese Weibo.
 
-# Current research
-* Generative AI and political discourse
-* Generative AI, synthetic media production, activism
-
-# Fun AI projects
-* I am the mastermind behind this AI-generated podcast: [Real Time with AI Agents](https://opensourcesoul.substack.com/s/real-time-with-ai-agents)
-* I am the culprit behind this [bot](https://bsky.app/profile/opensourcesoul.bsky.social) that automates creativity through LLMs. 
-
-# Non-Academic Writings
+# Non-Academic or Casual Writings
 I write a Substack called Opensource Soul Project https://opensourcesoul.substack.com/ 
 
 # What is CuriosityBits CC for?
 
-I built this site to share open-source content created in my research and teaching. You will find interactive tutorials on using R to collect, analyze, and visualize social media data, copies to my recent publications, and a repository for past data visualization projects. Some of the content is also available on my old website (https://www.curiositybits.com/).
+I built this site to share open-source content created in my research and teaching. You will find interactive tutorials on using R to collect, analyze, and visualize social media data, copies to my recent publications, and a repository for past data visualization projects. Please note that I no longer provide updates to the data science courses I teach through this website. If you are interested in taking my data science courses, please reach out to me directly. 
