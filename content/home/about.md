@@ -39,8 +39,9 @@ Dr. Xu researches political discourse across digital platforms, focusing on how 
 
 # Fun AI projects
 * I co-founded [Robovive](https://www.robovive.com/), a startup dedicated to empowering K-12 students with hands-on learning in AI, robotics, and media literacy.
-* I am behind [LampBotics](https://lampbotics.com/), which leverages Generative AI tools for education.
-* I am the mastermind behind this AI-generated podcast: [Real Time with AI Agents](https://opensourcesoul.substack.com/s/real-time-with-ai-agents)
+* I am behind [LampBotics](https://lampbotics.com/), a pre-startup which leverages Generative AI tools for education.
+* I am the mastermind behind several AI-coauthored podcasts: [Synthetic History]([https://opensourcesoul.substack.com/s/real-time-with-ai-agents](https://podcasts.apple.com/us/podcast/synthetic-history/id1801099235)) and [LampTales](https://podcasts.apple.com/us/podcast/lamptales/id1796958092).
+* I have built several daily AI trackers of online conversations on [BlueSky](https://weiaiwayne.github.io/lampminer/),[immigration-related discussions on Reddit](https://weiaiwayne.github.io/reddit-immigration-dashboard/), and [economy-related discussions on Reddit](https://weiaiwayne.github.io/lampminer-economy-investing/). 
 * I am the culprit behind this [bot](https://bsky.app/profile/opensourcesoul.bsky.social) that automates creativity through LLMs. 
 
 # Latest Publications & Projects
