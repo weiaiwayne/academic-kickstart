@@ -53,11 +53,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Weiai Wayne Xu"
-  role = "Associate Professor in Computational Communication"
+  role = "Associate Professor • Founder, LampBotics AI Lab"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Massachusetts - Amherst", url = "https://umass.edu" } ]
+  organizations = [ { name = "UMass Amherst", url = "https://umass.edu" }, { name = "LampBotics AI", url = "https://lampbotics.com" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -116,7 +116,7 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = "A site for sharing open-source content, maintained by Weiai Xu (Wayne), Associate Professor in the Department of Communication at University Massachusetts – Amherst."
+  description = "Weiai Wayne Xu - Associate Professor at UMass Amherst, Founder of LampBotics AI Lab. Research on agentic AI systems, computational communication, and multi-model AI validation. Creator of CommDAAF and AgentAcademy."
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
@@ -280,6 +280,21 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://github.com/weiaiwayne"
 
+  [[params.social]]
+    icon = "robot"
+    icon_pack = "fas"
+    link = "https://lampbotics.com"
+
+  [[params.social]]
+    icon = "graduation-cap"
+    icon_pack = "fas"
+    link = "https://agentacademy.lampbotics.com"
+
+  [[params.social]]
+    icon = "rss"
+    icon_pack = "fas"
+    link = "https://lampbotics.substack.com"
+
  # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
    [[params.social]]
@@ -301,6 +316,11 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
+  name = "Projects"
+  url = "/project/"
+  weight = 2
+
+[[menu.main]]
   name = "Publications"
   url = "/publication/"
   weight = 4
@@ -308,7 +328,12 @@ enableGitInfo = false
 [[menu.main]]
   name = "Posts"
   url = "/post/"
-  weight = 3
+  weight = 5
+
+[[menu.main]]
+  name = "Tutorials"
+  url = "/tutorial/"
+  weight = 6
 
 [[menu.main]]
   name = "•Faith•"
@@ -316,14 +341,9 @@ enableGitInfo = false
   weight = 8
 
 [[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 2
-
-[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 9
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

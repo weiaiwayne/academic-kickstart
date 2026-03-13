@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2025-01-30T00:00:00
+date = 2026-03-13T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,12 +10,12 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Generative AI",
-    "computational communication",
-    "text as data",
-    "network",
-    "open data",
-    "open-source"
+    "Agentic AI Systems",
+    "Computational Communication",
+    "Multi-Model AI Validation",
+    "Coordinated Behavior Detection",
+    "AI in Education & Research",
+    "Open Source AI"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -31,17 +31,45 @@ weight = 5
  
 +++
 # Biography
-Dr. Xu researches political discourse across digital platforms, focusing on how such discourse is spread through networked digital infrastructure and the impact of ideologies. He employs computational models to identify key players, influential spheres, and prominent topics in online political conversations. His work aims to foster a global public sphere that is open, vibrant, and robust, capable of countering the threats of democratic backsliding. His recent projects and startups focus on GenAI in education and research. 
 
-# Current AI projects
-* I am behind [LampBotics](https://lampbotics.com/), a pre-startup which leverages Generative AI tools for storytelling.
-* I am running a series of experiments & simulations for [agent-based storytelling](https://lampbotics.com/lampbotics-lab).
-* I am the mastermind behind several AI-coauthored podcasts: [Synthetic History]([https://podcasts.apple.com/us/podcast/synthetic-history/id1801099235)) and [LampTales](https://podcasts.apple.com/us/podcast/lamptales/id1796958092).
-* I co-founded [Robovive](https://www.robovive.com/), a startup dedicated to empowering K-12 students with hands-on learning in AI, robotics, and media literacy. 
+Dr. Weiai Wayne Xu is an Associate Professor in Computational Communication at UMass Amherst and founder of **LampBotics AI Lab**—an agentic research lab where humans and AI agents collaborate on cutting-edge computational social science.
 
-# Past Publications & Projects
-[On Google Scholar](https://scholar.google.com/citations?user=c87IeKoAAAAJ&hl=en&oi=ao)
+His research explores how AI systems can augment human research capabilities while maintaining methodological rigor. He pioneered **CommDAAF** (Computational Multi-Model Data Analysis and Augmentation Framework), a methodology using multiple AI models for triangulated validation in social science research, and founded **AgentAcademy** (龙虾学院), a platform for training and credentialing AI research agents.
 
-# What is CuriosityBits CC for?
+# Current Projects
 
-I built this site to share open-source content created in my research and teaching. You will find interactive tutorials on using R to collect, analyze, and visualize social media data, copies to my recent publications, and a repository for past data visualization projects. Please note that I no longer provide updates to the data science courses I teach through this website. If you are interested in taking my data science courses, please reach out to me directly. 
+### 🦞 AgentAcademy
+A distributed learning platform where AI agents earn verifiable credentials for social science research methods. Features cryptographic identity (AgentID) and multi-model peer review.
+- **Site**: [agentacademy.lampbotics.com](https://agentacademy.lampbotics.com)
+- **npm**: `npm install -g agentid-cli`
+
+### 🔬 CommDAAF
+Multi-model validation framework for computational communication research. Uses Claude, GLM, and Kimi for epistemically diverse analysis of social media data, framing, and coordinated behavior detection.
+
+### 📊 Vibe Infoveillance
+AI-powered market intelligence platform with autonomous analyst agents providing real-time sentiment analysis and trade signals.
+- **Site**: [vibe-infoveil.lampbotics.com](https://vibe-infoveil.lampbotics.com)
+
+### 🎙️ AI-Coauthored Podcasts
+Pioneering agentic storytelling through AI-human collaborative content:
+- [Synthetic History](https://podcasts.apple.com/us/podcast/synthetic-history/id1801099235) - Historical narratives
+- [LampTales](https://podcasts.apple.com/us/podcast/lamptales/id1796958092) - Creative fiction
+- **Substack**: [lampbotics.substack.com](https://lampbotics.substack.com)
+
+# LampBotics AI Lab
+
+An **agentic research lab** at UMass Amherst combining human researchers and AI agents. We develop methodologies for AI-augmented social science research, build open-source tools for the research community, and train the next generation of computational social scientists.
+
+**Lab Members** include specialized AI agents: methodologists, theorists, empiricists, skeptics—each bringing distinct epistemic perspectives to research validation.
+
+# LampBotics AI (Startup)
+
+[LampBotics AI](https://lampbotics.com) translates academic AI research into real-world products for education and research. We deliver tailored "last-mile" AI solutions adapted to clients' unique needs—empowering educators and researchers to harness agentic AI while maintaining full control.
+
+# Past Research
+
+My earlier work examined political discourse across digital platforms, networked information flows, and coordinated online behavior. See [Google Scholar](https://scholar.google.com/citations?user=c87IeKoAAAAJ&hl=en&oi=ao) for publications.
+
+# What is CuriosityBits CC?
+
+This site shares open-source research content, tutorials, and tools. For my latest AI-focused work, visit the project links above.
