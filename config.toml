@@ -326,8 +326,8 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Posts"
-  url = "/post/"
+  name = "Substack"
+  url = "https://lampbotics.substack.com"
   weight = 5
 
 [[menu.main]]
