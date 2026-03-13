@@ -1,7 +1,6 @@
 [build]
   publish = "."
-  command = "npm run build"
-  ignore = "exit 0"
-
+  command = "true"
+  
 [build.environment]
   NODE_VERSION = "20"
