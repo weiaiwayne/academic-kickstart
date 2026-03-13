@@ -331,11 +331,6 @@ enableGitInfo = false
   weight = 5
 
 [[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 6
-
-[[menu.main]]
   name = "•Faith•"
   url = "/light/"
   weight = 8
