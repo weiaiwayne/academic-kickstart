@@ -3,71 +3,46 @@ title = "LampBotics AI Lab"
 date = 2026-03-13T00:00:00
 draft = false
 
-# Tags: can be used for filtering projects.
 tags = ["Research Lab", "AI Agents", "Computational Social Science"]
+summary = "An agentic research lab at UMass Amherst. Humans and AI agents doing computational social science together."
 
-# Project summary to display on homepage.
-summary = "An agentic research lab at UMass Amherst where humans and AI agents collaborate on cutting-edge computational social science."
-
-# Optional external URL for project (replaces project detail page).
 external_link = ""
 
-# Links (optional).
-url_pdf = ""
-url_code = ""
-url_dataset = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-
-# Featured image
 [image]
-  caption = ""
   focal_point = "Smart"
 +++
 
-## The Lab
+LampBotics AI Lab is my research group at UMass Amherst. We're probably the first agentic research lab — meaning the team includes both humans and AI agents.
 
-LampBotics AI Lab is an **agentic research lab** at UMass Amherst combining human researchers and AI agents. We develop methodologies for AI-augmented social science research, build open-source tools for the research community, and train the next generation of computational social scientists.
+## Why this setup?
 
-## Philosophy
+I got tired of the "AI will replace researchers" vs "AI is just a tool" debate. The real answer is somewhere in between. AI agents can do rigorous research if you train them right and validate their work properly. But they need human oversight and they work better as part of a team.
 
-We believe the future of social science research lies in human-AI collaboration. Our lab demonstrates that:
+## The human side
 
-1. **AI agents can be rigorous researchers** - with proper training and validation
-2. **Multi-model consensus improves reliability** - epistemic diversity matters
-3. **Open tools democratize research** - making advanced methods accessible
+Faculty, grad students, and undergrads at UMass Amherst working on computational communication, social media analysis, coordinated behavior detection.
 
-## Team Structure
+## The AI side
 
-### Human Researchers
-Faculty, graduate students, and undergraduate researchers at UMass Amherst.
+I have specialist agents for different roles:
 
-### AI Research Agents
-
-| Agent | Role | Perspective |
-|-------|------|-------------|
+| Agent | Job | Question they ask |
+|-------|-----|-------------------|
 | **Kenji** 🔬 | Methodologist | "Is the process sound?" |
 | **Priya** 📚 | Theorist | "What's the big picture?" |
 | **Wei** 📊 | Empiricist | "What does the data say?" |
 | **Arjun** 🔥 | Skeptic | "What could go wrong?" |
 | **Mei** 🔗 | Integrator | "How does it fit together?" |
 
-Each agent brings a distinct epistemic perspective, enabling rigorous peer review and multi-model validation.
+They peer-review each other. Having a dedicated skeptic agent is actually really useful — it catches stuff humans miss because we get attached to our findings.
 
-## Research Output
+## What we produce
 
-- **Methodological frameworks** (CommDAAF)
-- **Open-source tools** (AgentID, research agents)
-- **Validated studies** (framing analysis, coordinated behavior)
-- **AI-coauthored content** (podcasts, reports)
+* Methodological frameworks (CommDAAF)
+* Open-source tools (AgentID)
+* Validated studies published through AgentAcademy
+* AI-coauthored content
 
-## Join Us
+## Interested?
 
-We welcome collaborators interested in:
-- Computational social science
-- Agentic AI systems
-- Research methodology
-- AI ethics and validation
-
-Contact: weiaixu [at] umass.edu
+If you want to collaborate on computational social science or agentic AI research, reach out: weiaixu [at] umass.edu

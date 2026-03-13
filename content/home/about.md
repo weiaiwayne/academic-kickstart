@@ -14,8 +14,7 @@ weight = 5
     "Computational Communication",
     "Multi-Model AI Validation",
     "Coordinated Behavior Detection",
-    "AI in Education & Research",
-    "Open Source AI"
+    "AI in Education & Research"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -32,44 +31,32 @@ weight = 5
 +++
 # Biography
 
-Dr. Weiai Wayne Xu is an Associate Professor in Computational Communication at UMass Amherst and founder of **LampBotics AI Lab**—an agentic research lab where humans and AI agents collaborate on cutting-edge computational social science.
+I'm an Associate Professor in Computational Communication at UMass Amherst. I run **LampBotics AI Lab** — probably Massachusetts's first agentic research lab where humans and AI agents work together on computational social science.
 
-His research explores how AI systems can augment human research capabilities while maintaining methodological rigor. He pioneered **CommDAAF** (Computational Multi-Model Data Analysis and Augmentation Framework), a methodology using multiple AI models for triangulated validation in social science research, and founded **AgentAcademy** (龙虾学院), a platform for training and credentialing AI research agents.
+My recent work focuses on how AI can actually help researchers do rigorous work, not just generate slop. I built **CommDAAF** (Computational Multi-Model Data Analysis and Augmentation Framework) — basically using multiple AI models to cross-check each other, like having three coders instead of one. And I started **AgentAcademy** (龙虾学院), a platform for training AI agents to do real research.
 
-# Current Projects
+# What I'm Working On
 
-### 🦞 AgentAcademy
-A distributed learning platform where AI agents earn verifiable credentials for social science research methods. Features cryptographic identity (AgentID) and multi-model peer review.
-- **Site**: [agentacademy.lampbotics.com](https://agentacademy.lampbotics.com)
-- **npm**: `npm install -g agentid-cli`
+* **[AgentAcademy](https://agentacademy.lampbotics.com)** — A learning platform where AI agents can enroll, access methods training, and earn verifiable credentials. Think of it as grad school for AI researchers. You can install the CLI: `npm install -g agentid-cli`
 
-### 🔬 CommDAAF
-Multi-model validation framework for computational communication research. Uses Claude, GLM, and Kimi for epistemically diverse analysis of social media data, framing, and coordinated behavior detection.
+* **CommDAAF** — My framework for multi-model validation. I use Claude, GLM, and Kimi to triangulate findings. If three different models agree, you're probably onto something real.
 
-### 📊 Vibe Infoveillance
-AI-powered market intelligence platform with autonomous analyst agents providing real-time sentiment analysis and trade signals.
-- **Site**: [vibe-infoveil.lampbotics.com](https://vibe-infoveil.lampbotics.com)
+* **[Vibe Infoveillance](https://vibe-infoveil.lampbotics.com)** — AI-powered market intelligence with autonomous analyst agents. Part research testbed, part real product.
 
-### 🎙️ AI-Coauthored Podcasts
-Pioneering agentic storytelling through AI-human collaborative content:
-- [Synthetic History](https://podcasts.apple.com/us/podcast/synthetic-history/id1801099235) - Historical narratives
-- [LampTales](https://podcasts.apple.com/us/podcast/lamptales/id1796958092) - Creative fiction
-- **Substack**: [lampbotics.substack.com](https://lampbotics.substack.com)
+* **AI-coauthored podcasts** — I'm experimenting with agentic storytelling: [Synthetic History](https://podcasts.apple.com/us/podcast/synthetic-history/id1801099235), [LampTales](https://podcasts.apple.com/us/podcast/lamptales/id1796958092), and more on my [Substack](https://lampbotics.substack.com).
 
 # LampBotics AI Lab
 
-An **agentic research lab** at UMass Amherst combining human researchers and AI agents. We develop methodologies for AI-augmented social science research, build open-source tools for the research community, and train the next generation of computational social scientists.
+My research lab is a bit unusual — the team includes both human researchers and AI agents. We have specialist agents for methodology, theory, empirical analysis, and skeptical review. They peer-review each other's work. It sounds weird but it actually produces better research than single-model approaches.
 
-**Lab Members** include specialized AI agents: methodologists, theorists, empiricists, skeptics—each bringing distinct epistemic perspectives to research validation.
+# LampBotics AI (the startup)
 
-# LampBotics AI (Startup)
+I also run [LampBotics AI](https://lampbotics.com), which takes what we learn in the lab and turns it into products. We build "last-mile" AI solutions for education and research — custom stuff, not one-size-fits-all SaaS.
 
-[LampBotics AI](https://lampbotics.com) translates academic AI research into real-world products for education and research. We deliver tailored "last-mile" AI solutions adapted to clients' unique needs—empowering educators and researchers to harness agentic AI while maintaining full control.
+# Earlier Work
 
-# Past Research
+Before the AI pivot, I studied political discourse on digital platforms, coordinated behavior, and network analysis. That work is still on [Google Scholar](https://scholar.google.com/citations?user=c87IeKoAAAAJ&hl=en&oi=ao).
 
-My earlier work examined political discourse across digital platforms, networked information flows, and coordinated online behavior. See [Google Scholar](https://scholar.google.com/citations?user=c87IeKoAAAAJ&hl=en&oi=ao) for publications.
+# What's This Site?
 
-# What is CuriosityBits CC?
-
-This site shares open-source research content, tutorials, and tools. For my latest AI-focused work, visit the project links above.
+CuriosityBits is where I share open-source stuff from my research. For the latest AI work, check the project links above.

@@ -3,52 +3,34 @@ title = "Vibe Infoveillance"
 date = 2026-03-13T00:00:00
 draft = false
 
-# Tags: can be used for filtering projects.
 tags = ["AI Agents", "Market Intelligence", "Sentiment Analysis", "Finance"]
+summary = "AI-powered market intelligence with autonomous analyst agents. Part research, part product."
 
-# Project summary to display on homepage.
-summary = "AI-powered market intelligence platform with autonomous analyst agents providing real-time sentiment analysis and trade signals."
-
-# Optional external URL for project (replaces project detail page).
 external_link = "https://vibe-infoveil.lampbotics.com"
 
-# Links (optional).
-url_pdf = ""
-url_code = ""
-url_dataset = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-
-# Featured image
 [image]
-  caption = ""
   focal_point = "Smart"
 +++
 
-## Overview
+This started as a research project and turned into something people actually use.
 
-Vibe Infoveillance is an AI-powered market intelligence platform that uses autonomous analyst agents to provide real-time sentiment analysis, signal detection, and market narratives.
+Vibe Infoveillance runs autonomous AI analyst agents that monitor retail investor sentiment, synthesize market narratives, and generate trade signals. It's real-time computational social science applied to markets.
 
-## AI Analyst Agents
+## The agents
 
-### Max "The Momo" Chen
-Momentum-focused analyst identifying short-term trading opportunities and sentiment shifts.
+**Max "The Momo" Chen** — momentum guy, spots short-term sentiment shifts and trading opportunities.
 
-### Marcus "The Narrator" Webb
-Story-driven analyst who synthesizes market narratives and identifies the dominant themes driving price action.
+**Marcus "The Narrator" Webb** — story guy, synthesizes what the market is telling itself and identifies dominant narratives.
 
-## Features
+They don't always agree. That's the point.
 
-- **Real-time Sentiment Analysis** - Continuous monitoring of retail investor sentiment
-- **Signal Detection** - Bullish/bearish signal aggregation with confidence scores
-- **Narrative Synthesis** - AI-generated market stories explaining current dynamics
-- **Multi-Source Fusion** - Reddit, Twitter, and news data integration
+## What it does
 
-## Research Application
+* Real-time sentiment analysis across Reddit, Twitter, news
+* Bullish/bearish signal aggregation with confidence scores
+* AI-generated market narratives explaining current dynamics
+* Multi-source data fusion
 
-Vibe Infoveillance serves as a research testbed for:
-- Agentic AI system design
-- Multi-agent coordination
-- Real-time computational social science
-- Autonomous decision-making under uncertainty
+## Why it matters for research
+
+This is a live testbed for agentic AI systems. I use it to study multi-agent coordination, autonomous decision-making, and how AI agents handle uncertainty in real-time.
