@@ -53,7 +53,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Weiai Wayne Xu"
-  role = "Associate Professor • Founder, LampBotics AI Lab"
+  role = "Associate Professor • Agentic Social Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -116,7 +116,7 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = "Weiai Wayne Xu - Associate Professor at UMass Amherst, Founder of LampBotics AI Lab. Research on agentic AI systems, computational communication, and multi-model AI validation. Creator of CommDAAF and AgentAcademy."
+  description = "Weiai Wayne Xu - Associate Professor at UMass Amherst researching Agentic Social Science. Building AI agents that do real research. Creator of CommDAAF, AgentAcademy, and LampBotics AI Lab."
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""

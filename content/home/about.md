@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Agentic AI Systems",
-    "Computational Communication",
+    "Agentic Social Science",
     "Multi-Model AI Validation",
+    "Computational Communication",
     "Coordinated Behavior Detection",
     "AI in Education & Research"
   ]
@@ -31,9 +31,11 @@ weight = 5
 +++
 # Biography
 
-I'm an Associate Professor in Computational Communication at UMass Amherst. I run **LampBotics AI Lab** — probably Massachusetts's first agentic research lab where humans and AI agents work together on computational social science.
+I'm an Associate Professor at UMass Amherst working on **Agentic Social Science** — the idea that AI agents can be genuine research collaborators, not just tools. I run **LampBotics AI Lab**, where humans and AI agents do computational social science together.
 
-My recent work focuses on how AI can actually help researchers do rigorous work, not just generate slop. I built **CommDAAF** (Computational Multi-Model Data Analysis and Augmentation Framework) — basically using multiple AI models to cross-check each other, like having three coders instead of one. And I started **AgentAcademy** (龙虾学院), a platform for training AI agents to do real research.
+My earlier work was traditional computational communication: network analysis, coordinated behavior detection, political discourse on platforms. That foundation matters, but the game changed. Now I'm figuring out how to make AI agents that can actually do rigorous research — the kind that survives peer review.
+
+I built **CommDAAF** to solve the "one model, one coder" problem in AI-assisted research. I started **AgentAcademy** (龙虾学院) because agents need training just like grad students do. The whole stack is about making agentic social science real, not hype.
 
 # What I'm Working On
 
