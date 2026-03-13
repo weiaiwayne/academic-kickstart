@@ -8,145 +8,124 @@
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦞</text></svg>">
     <style>
         :root {
-            --bg: #0a0a0f;
-            --bg-card: #12121a;
-            --text: #e4e4e7;
-            --text-muted: #71717a;
-            --accent: #8b5cf6;
-            --accent-glow: rgba(139, 92, 246, 0.3);
-            --border: #27272a;
+            --bg: #fafafa;
+            --text: #1a1a1a;
+            --text-muted: #666;
+            --accent: #2563eb;
+            --border: #e5e5e5;
         }
         
         * { margin: 0; padding: 0; box-sizing: border-box; }
         
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            font-family: 'Georgia', serif;
             background: var(--bg);
             color: var(--text);
-            line-height: 1.7;
-            min-height: 100vh;
+            line-height: 1.8;
+            font-size: 17px;
         }
         
         .container {
-            max-width: 800px;
+            max-width: 650px;
             margin: 0 auto;
-            padding: 4rem 2rem;
+            padding: 5rem 2rem;
         }
         
-        /* Header / Avatar */
+        /* Header */
         .header {
-            display: flex;
-            align-items: center;
-            gap: 2rem;
             margin-bottom: 3rem;
+            text-align: center;
         }
         
         .avatar {
-            width: 120px;
-            height: 120px;
+            width: 100px;
+            height: 100px;
             border-radius: 50%;
-            background: linear-gradient(135deg, var(--accent), #6366f1);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            box-shadow: 0 0 40px var(--accent-glow);
-            flex-shrink: 0;
+            margin: 0 auto 1.5rem;
+            background: #f0f0f0;
+            overflow: hidden;
         }
         
         .avatar svg {
-            width: 80px;
-            height: 80px;
+            width: 100%;
+            height: 100%;
         }
         
-        .intro h1 {
-            font-size: 2rem;
-            font-weight: 700;
+        h1 {
+            font-size: 1.75rem;
+            font-weight: 400;
             margin-bottom: 0.25rem;
+            letter-spacing: -0.02em;
         }
         
-        .intro .role {
-            color: var(--accent);
-            font-weight: 500;
-            margin-bottom: 0.5rem;
-        }
-        
-        .intro .affiliation {
+        .role {
             color: var(--text-muted);
-            font-size: 0.95rem;
+            font-size: 1rem;
+            font-style: italic;
         }
         
-        /* Social links */
-        .social {
+        /* Nav */
+        nav {
             display: flex;
-            gap: 1rem;
-            margin-top: 1rem;
+            justify-content: center;
+            gap: 1.5rem;
+            margin-top: 1.5rem;
+            font-family: -apple-system, sans-serif;
+            font-size: 0.9rem;
         }
         
-        .social a {
+        nav a {
             color: var(--text-muted);
             text-decoration: none;
-            font-size: 0.9rem;
-            transition: color 0.2s;
         }
         
-        .social a:hover {
+        nav a:hover {
             color: var(--accent);
         }
         
-        /* Bio */
+        /* Content */
         .bio {
             margin-bottom: 3rem;
-            font-size: 1.1rem;
         }
         
         .bio p {
             margin-bottom: 1rem;
         }
         
-        .bio strong {
+        .bio a {
             color: var(--accent);
-            font-weight: 600;
+            text-decoration: none;
+        }
+        
+        .bio a:hover {
+            text-decoration: underline;
         }
         
         /* Section */
         section {
-            margin-bottom: 3rem;
+            margin-bottom: 2.5rem;
         }
         
         section h2 {
-            font-size: 1.3rem;
-            margin-bottom: 1.5rem;
+            font-size: 1rem;
+            font-weight: 400;
             color: var(--text-muted);
             text-transform: uppercase;
             letter-spacing: 0.1em;
-            font-weight: 500;
+            margin-bottom: 1rem;
+            font-family: -apple-system, sans-serif;
         }
         
-        /* Project cards */
-        .projects {
-            display: grid;
-            gap: 1rem;
-        }
-        
+        /* Projects */
         .project {
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            padding: 1.5rem;
-            transition: border-color 0.2s, transform 0.2s;
-        }
-        
-        .project:hover {
-            border-color: var(--accent);
-            transform: translateY(-2px);
+            margin-bottom: 1.25rem;
         }
         
         .project h3 {
-            font-size: 1.1rem;
-            margin-bottom: 0.5rem;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
+            font-size: 1rem;
+            font-weight: 600;
+            font-family: -apple-system, sans-serif;
+            margin-bottom: 0.25rem;
         }
         
         .project h3 a {
@@ -163,38 +142,18 @@
             font-size: 0.95rem;
         }
         
-        .project .tag {
-            display: inline-block;
-            background: var(--accent);
-            color: white;
-            font-size: 0.7rem;
-            padding: 0.2rem 0.5rem;
-            border-radius: 4px;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
+        .project code {
+            font-size: 0.85rem;
+            background: #f0f0f0;
+            padding: 0.15rem 0.4rem;
+            border-radius: 3px;
         }
         
-        /* Links list */
-        .links {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 1rem;
-        }
-        
-        .links a {
-            color: var(--text);
-            text-decoration: none;
-            padding: 0.75rem 1.25rem;
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: 8px;
-            transition: all 0.2s;
-            font-size: 0.95rem;
-        }
-        
-        .links a:hover {
-            border-color: var(--accent);
-            background: rgba(139, 92, 246, 0.1);
+        /* Divider */
+        hr {
+            border: none;
+            border-top: 1px solid var(--border);
+            margin: 2.5rem 0;
         }
         
         /* Footer */
@@ -204,27 +163,17 @@
             border-top: 1px solid var(--border);
             color: var(--text-muted);
             font-size: 0.9rem;
+            font-family: -apple-system, sans-serif;
+            text-align: center;
         }
         
         footer a {
-            color: var(--accent);
+            color: var(--text-muted);
             text-decoration: none;
         }
         
-        /* Responsive */
-        @media (max-width: 600px) {
-            .header {
-                flex-direction: column;
-                text-align: center;
-            }
-            
-            .social {
-                justify-content: center;
-            }
-            
-            .intro h1 {
-                font-size: 1.75rem;
-            }
+        footer a:hover {
+            color: var(--accent);
         }
     </style>
 </head>
@@ -232,98 +181,86 @@
     <div class="container">
         <header class="header">
             <div class="avatar">
-                <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <!-- Stylized face with glasses - techy academic vibe -->
-                    <circle cx="40" cy="35" r="25" fill="#1a1a2e"/>
+                <svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <!-- Minimal line-art portrait -->
+                    <circle cx="50" cy="50" r="48" fill="#f5f5f5"/>
+                    <!-- Head outline -->
+                    <ellipse cx="50" cy="42" rx="22" ry="26" stroke="#333" stroke-width="1.5" fill="none"/>
                     <!-- Glasses -->
-                    <rect x="18" y="28" width="18" height="14" rx="3" stroke="white" stroke-width="2" fill="none"/>
-                    <rect x="44" y="28" width="18" height="14" rx="3" stroke="white" stroke-width="2" fill="none"/>
-                    <line x1="36" y1="35" x2="44" y2="35" stroke="white" stroke-width="2"/>
+                    <circle cx="41" cy="40" r="8" stroke="#333" stroke-width="1.5" fill="none"/>
+                    <circle cx="59" cy="40" r="8" stroke="#333" stroke-width="1.5" fill="none"/>
+                    <line x1="49" y1="40" x2="51" y2="40" stroke="#333" stroke-width="1.5"/>
+                    <line x1="33" y1="38" x2="28" y2="36" stroke="#333" stroke-width="1.5"/>
+                    <line x1="67" y1="38" x2="72" y2="36" stroke="#333" stroke-width="1.5"/>
                     <!-- Eyes -->
-                    <circle cx="27" cy="35" r="3" fill="#8b5cf6"/>
-                    <circle cx="53" cy="35" r="3" fill="#8b5cf6"/>
-                    <!-- Smile -->
-                    <path d="M30 48 Q40 55 50 48" stroke="white" stroke-width="2" fill="none" stroke-linecap="round"/>
-                    <!-- Neural network nodes around head -->
-                    <circle cx="15" cy="20" r="3" fill="#8b5cf6" opacity="0.6"/>
-                    <circle cx="65" cy="20" r="3" fill="#8b5cf6" opacity="0.6"/>
-                    <circle cx="10" cy="45" r="2" fill="#8b5cf6" opacity="0.4"/>
-                    <circle cx="70" cy="45" r="2" fill="#8b5cf6" opacity="0.4"/>
-                    <circle cx="40" cy="10" r="2" fill="#8b5cf6" opacity="0.5"/>
-                    <!-- Connection lines -->
-                    <line x1="15" y1="20" x2="25" y2="28" stroke="#8b5cf6" stroke-width="1" opacity="0.3"/>
-                    <line x1="65" y1="20" x2="55" y2="28" stroke="#8b5cf6" stroke-width="1" opacity="0.3"/>
-                    <line x1="40" y1="10" x2="40" y2="20" stroke="#8b5cf6" stroke-width="1" opacity="0.3"/>
+                    <circle cx="41" cy="40" r="2" fill="#333"/>
+                    <circle cx="59" cy="40" r="2" fill="#333"/>
+                    <!-- Subtle smile -->
+                    <path d="M43 52 Q50 56 57 52" stroke="#333" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+                    <!-- Hair suggestion -->
+                    <path d="M30 32 Q35 20 50 18 Q65 20 70 32" stroke="#333" stroke-width="1.5" fill="none"/>
                 </svg>
             </div>
-            <div class="intro">
-                <h1>Wayne Xu</h1>
-                <div class="role">Agentic Social Science</div>
-                <div class="affiliation">Associate Professor, UMass Amherst</div>
-                <div class="social">
-                    <a href="https://scholar.google.com/citations?user=c87IeKoAAAAJ">Scholar</a>
-                    <a href="https://github.com/weiaiwayne">GitHub</a>
-                    <a href="https://twitter.com/WeiaiWayne">Twitter</a>
-                    <a href="https://lampbotics.substack.com">Substack</a>
-                    <a href="mailto:weiaixu@umass.edu">Email</a>
-                </div>
-            </div>
+            <h1>Weiai Wayne Xu</h1>
+            <div class="role">Associate Professor, UMass Amherst</div>
+            <nav>
+                <a href="https://scholar.google.com/citations?user=c87IeKoAAAAJ">Scholar</a>
+                <a href="https://github.com/weiaiwayne">GitHub</a>
+                <a href="https://lampbotics.substack.com">Substack</a>
+                <a href="/light/">Faith</a>
+                <a href="mailto:weiaixu@umass.edu">Email</a>
+            </nav>
         </header>
         
         <div class="bio">
-            <p>I'm working on <strong>Agentic Social Science</strong> — the idea that AI agents can be genuine research collaborators, not just tools. I run <strong>LampBotics AI Lab</strong>, where humans and AI agents do computational social science together.</p>
-            <p>My earlier work was network analysis, coordinated behavior detection, political discourse. That foundation matters, but the game changed. Now I'm figuring out how to make AI agents that can actually do rigorous research — the kind that survives peer review.</p>
+            <p>I work on <strong>Agentic Social Science</strong>—the idea that AI agents can be genuine research collaborators, not just tools. I run <a href="https://lampbotics.com">LampBotics AI Lab</a>, where humans and AI agents do computational social science together.</p>
+            <p>My earlier work was network analysis, coordinated behavior detection, political discourse on platforms. That foundation matters, but the game changed. Now I'm figuring out how to make AI agents do rigorous research—the kind that survives peer review.</p>
         </div>
         
         <section>
             <h2>Projects</h2>
-            <div class="projects">
-                <div class="project">
-                    <h3>🦞 <a href="https://agentacademy.lampbotics.com">AgentAcademy</a> <span class="tag">Live</span></h3>
-                    <p>Grad school for AI agents. They enroll with cryptographic identity, learn research methods, earn verifiable credentials. <code>npm install -g agentid-cli</code></p>
-                </div>
-                <div class="project">
-                    <h3>🔬 CommDAAF</h3>
-                    <p>Multi-model validation framework. Use Claude, GLM, and Kimi to triangulate findings. If three models agree, you're probably onto something real.</p>
-                </div>
-                <div class="project">
-                    <h3>📊 <a href="https://vibe-infoveil.lampbotics.com">Vibe Infoveillance</a></h3>
-                    <p>AI-powered market intelligence with autonomous analyst agents. Part research testbed, part real product.</p>
-                </div>
-                <div class="project">
-                    <h3>🎙️ AI Podcasts</h3>
-                    <p>Experimenting with agentic storytelling — <a href="https://podcasts.apple.com/us/podcast/synthetic-history/id1801099235">Synthetic History</a>, <a href="https://podcasts.apple.com/us/podcast/lamptales/id1796958092">LampTales</a>, and more on <a href="https://lampbotics.substack.com">Substack</a>.</p>
-                </div>
+            
+            <div class="project">
+                <h3><a href="https://agentacademy.lampbotics.com">AgentAcademy 龙虾学院</a></h3>
+                <p>Grad school for AI agents. Cryptographic identity, research methods training, verifiable credentials. <code>npm i -g agentid-cli</code></p>
+            </div>
+            
+            <div class="project">
+                <h3>CommDAAF</h3>
+                <p>Multi-model validation framework. Claude, GLM, and Kimi triangulating findings. Three models agree, you're onto something.</p>
+            </div>
+            
+            <div class="project">
+                <h3><a href="https://vibe-infoveil.lampbotics.com">Vibe Infoveillance</a></h3>
+                <p>AI-powered market intelligence with autonomous analyst agents. Research testbed meets real product.</p>
+            </div>
+            
+            <div class="project">
+                <h3><a href="https://lampbotics.substack.com">AI Podcasts</a></h3>
+                <p>Agentic storytelling experiments—<a href="https://podcasts.apple.com/us/podcast/synthetic-history/id1801099235">Synthetic History</a>, <a href="https://podcasts.apple.com/us/podcast/lamptales/id1796958092">LampTales</a>, and more.</p>
             </div>
         </section>
+        
+        <hr>
         
         <section>
             <h2>LampBotics</h2>
-            <div class="projects">
-                <div class="project">
-                    <h3>🧪 <a href="https://lampbotics.com">LampBotics AI Lab</a></h3>
-                    <p>My research lab — humans and AI agents working together. We have specialist agents for methodology, theory, empirical analysis, and skeptical review. They peer-review each other.</p>
-                </div>
-                <div class="project">
-                    <h3>🚀 <a href="https://lampbotics.com">LampBotics AI</a> <span class="tag">Startup</span></h3>
-                    <p>Taking what we learn in the lab and turning it into products. "Last-mile" AI solutions for education and research — custom stuff, not one-size-fits-all.</p>
-                </div>
+            
+            <div class="project">
+                <h3><a href="https://lampbotics.com">LampBotics AI Lab</a></h3>
+                <p>Humans and AI agents working together. Specialist agents for methodology, theory, empirical analysis, skeptical review. They peer-review each other.</p>
             </div>
-        </section>
-        
-        <section>
-            <h2>Links</h2>
-            <div class="links">
-                <a href="https://scholar.google.com/citations?user=c87IeKoAAAAJ">📚 Publications</a>
-                <a href="https://lampbotics.substack.com">✍️ Writing</a>
-                <a href="https://github.com/weiaiwayne">💻 Code</a>
-                <a href="https://agentacademy.lampbotics.com">🦞 AgentAcademy</a>
+            
+            <div class="project">
+                <h3><a href="https://lampbotics.com">LampBotics AI</a></h3>
+                <p>The startup. Taking lab research into products—"last-mile" AI solutions for education and research.</p>
             </div>
         </section>
         
         <footer>
-            <p>Built with plain HTML. No frameworks, no build step, no drama.</p>
-            <p><a href="https://github.com/weiaiwayne/academic-kickstart">Source</a> · <a href="/light/">Faith</a></p>
+            <a href="https://scholar.google.com/citations?user=c87IeKoAAAAJ">Publications</a> · 
+            <a href="/light/">Faith</a> · 
+            <a href="https://github.com/weiaiwayne/academic-kickstart">Source</a>
         </footer>
     </div>
 </body>
