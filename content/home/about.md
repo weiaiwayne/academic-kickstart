@@ -58,7 +58,3 @@ I also run [LampBotics AI](https://lampbotics.com), which takes what we learn in
 # Earlier Work
 
 Before the AI pivot, I studied political discourse on digital platforms, coordinated behavior, and network analysis. That work is still on [Google Scholar](https://scholar.google.com/citations?user=c87IeKoAAAAJ&hl=en&oi=ao).
-
-# What's This Site?
-
-CuriosityBits is where I share open-source stuff from my research. For the latest AI work, check the project links above.
